@@ -25,113 +25,121 @@ section	/Users/aakash/Documents/aakashparikh/index.html	/^					<section id="intr
 div	/Users/aakash/Documents/aakashparikh/index.html	/^						<div class="inner">$/;"	function	line:36
 div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div style="width:50%; float:left">$/;"	function	line:37
 h	/Users/aakash/Documents/aakashparikh/index.html	/^								<h1>Aakash Parikh<\/h1>$/;"	function	line:38
-p	/Users/aakash/Documents/aakashparikh/index.html	/^								<p>Hey! I'm Aakash! I'm a recent grad from UC Berkeley, completing my MS and BA in Computer Science. At Berkeley, I focused on Machine Learning, Graphics and AR\/VR and Robotics research. I've also interned at Facebook and PayPal as a software engineer.<\/p>$/;"	function	line:39
+p	/Users/aakash/Documents/aakashparikh/index.html	/^								<p>Hey! I'm Aakash! I'm a recent grad from UC Berkeley, completing my MS and BA in Computer Science. I've also interned at Facebook and PayPal as a software engineer.<\/p>$/;"	function	line:39
 ul	/Users/aakash/Documents/aakashparikh/index.html	/^								<ul class="actions">$/;"	function	line:40
 li	/Users/aakash/Documents/aakashparikh/index.html	/^									<li><a href="#one" class="button scrolly">Learn more<\/a><\/li>$/;"	function	line:41
 div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div style="width:30%; float:right">$/;"	function	line:44
 a	/Users/aakash/Documents/aakashparikh/index.html	/^								<a href="#" class="image"><img src="images\/a4.jpg" width = 100% \/><\/a>$/;"	function	line:45
 section	/Users/aakash/Documents/aakashparikh/index.html	/^					<section id="one" class="wrapper style2 spotlights">$/;"	function	line:52
 section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:53
-a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/burrowing_robot.bmp" alt="" data-position="center center" \/><\/a>$/;"	function	line:54
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/berkeley.jpg" alt="" data-position="center center" \/><\/a>$/;"	function	line:54
 div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:55
 div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:56
-h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h2>Student Researcher at UC Berkeley<\/h2>$/;"	function	line:57
-p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p>I was involved in research at UC Berkeley at the intersections of robotics, graphics and machine learning.<\/br>$/;"	function	line:58
-ul	/Users/aakash/Documents/aakashparikh/index.html	/^										<ul>$/;"	function	line:60
-li	/Users/aakash/Documents/aakashparikh/index.html	/^											<li>$/;"	function	line:61
-a	/Users/aakash/Documents/aakashparikh/index.html	/^											<a href="https:\/\/www2.eecs.berkeley.edu\/Pubs\/TechRpts\/2020\/EECS-2020-43.html" class="button">Thesis<\/a>$/;"	function	line:64
-li	/Users/aakash/Documents/aakashparikh/index.html	/^											<li>$/;"	function	line:65
-section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:72
-a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/fb_logo.png" alt="" data-position="top center" \/><\/a>$/;"	function	line:73
-div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:74
-div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:75
-h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h2>Software Engineering Intern at Facebook<\/h2>$/;"	function	line:76
-p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p>I have interned at Facebook during the summers of 2019 and 2018<\/p>$/;"	function	line:77
-ul	/Users/aakash/Documents/aakashparikh/index.html	/^									<ul>$/;"	function	line:78
-li	/Users/aakash/Documents/aakashparikh/index.html	/^										<li>$/;"	function	line:79
-li	/Users/aakash/Documents/aakashparikh/index.html	/^										<li>$/;"	function	line:82
-section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:90
-a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/PayPal.png" alt="" data-position="25% 25%" \/><\/a>$/;"	function	line:91
-div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:92
-div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:93
-h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h2>Software Engineering Intern at PayPal<\/h2>$/;"	function	line:94
-p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p>I interned in the Financial Instruments team during Summer 2017 at PayPal in San Jose. <br>$/;"	function	line:95
-section	/Users/aakash/Documents/aakashparikh/index.html	/^					<section id="two" class="wrapper style3-alt spotlights">$/;"	function	line:103
-section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:104
-a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/low_prec.png" alt="" data-position="center center" \/><\/a>$/;"	function	line:105
-div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:106
-div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:107
-h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>Improving Low Precision Network Accuracy with Teacher Assistant Model Distillation<\/h2>$/;"	function	line:108
-p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p> Built pipeline to use intermediate teacher assistant networks to improve image classification accuracy in smaller models when distilling neural networks to smaller networks with lower precision forward activations<\/p>$/;"	function	line:109
-a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/docs.google.com\/document\/u\/1\/d\/e\/2PACX-1vTUb1h95VKj2pFijNMIBWviyx27M-3Nd0eOwShiKSClriybFUS1CpLHafistaHvt1TKHZEZd-sFM9xq\/pub" class="button">Write Up<\/a>$/;"	function	line:110
-section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:114
-a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/gfootball.png" alt="" data-position="center center" \/><\/a>$/;"	function	line:115
-div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:116
-div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:117
-h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>Cooperative Reinforcement Learning for Multiple Football Agents<\/h2>$/;"	function	line:118
-p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p> We developed and assessed scenarios for simultaneous learning, individual training and single agent controlling multiple players in order to better cooperatively play a simulation soccer game in Google Research’s Football environment<\/p>$/;"	function	line:119
-a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/docs.google.com\/document\/u\/1\/d\/e\/2PACX-1vQ6OVdp4gmj97aT-IHXQH6ArPRUy5pz-UNMk_OTnNpApqhMXepcvsuzARodhKYp2clTJXnx87ssih-9\/pub" class="button">Write Up<\/a>$/;"	function	line:120
-section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:124
-a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/deepracer.png" alt="" data-position="top center" \/><\/a>$/;"	function	line:125
-div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:126
-div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:127
-h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>AWS DeepRacer Control<\/h3>$/;"	function	line:128
-p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p>Assessed viability and performance of traditional controllers using only camera and IMU information compared to a reinforcement learning approach for AWS DeepRacer on a marked racetrack and reported results to Amazon research team and Berkeley MPC lab<\/p>$/;"	function	line:129
-a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/github.com\/junzengx14\/AWS-DeepRacer\/wiki" class="button">GitHub<\/a>$/;"	function	line:130
-section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:134
-a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/galaxy.png" alt="" data-position="25% 25%" \/><\/a>$/;"	function	line:135
-div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:136
-div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:137
-h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>Cosmological N-Body Simulator<\/h3>$/;"	function	line:138
-p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p>Built a real time in-browser large N-body simulation of star formation, galaxy coalescence and collisions with stunning visuals including light reflectance, scattering and cloud models<\/p>$/;"	function	line:139
-a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/aparikh98.github.io\/CosmologicalSimulation\/" class="button">Write Up<\/a>$/;"	function	line:140
-section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:144
-a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/fruitbot.png" alt="" data-position="top center" \/><\/a>$/;"	function	line:145
-div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:146
-div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:147
-h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>Fruitbot<\/h3>$/;"	function	line:148
-p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p>Determined a robust way for a Baxter industrial robot to locate, grasp and sort objects with a custom image pre-processing flow to account for varying orientations, shapes and sizes and a CNN to identify and locate objects<\/p>$/;"	function	line:149
-a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/fruitbot.weebly.com" class="button">Web Site<\/a>$/;"	function	line:150
-section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:154
-a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/messengermap.png" alt="" data-position="25% 25%" \/><\/a>$/;"	function	line:155
-div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:156
-div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:157
-h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>Messenger Friends Map<\/h3>$/;"	function	line:158
-p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p> Identify and visualize friend groups by scraping and modeling chat data to determine relative strength of friendships and connection networks using PageRank and MCMC algorithms<\/p>$/;"	function	line:159
-a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/drive.google.com\/file\/d\/1ARWxb7s43h_SEIIQvQFx-AxPxSLOj6Mb\/view?usp=sharing" class="button">Write Up<\/a>$/;"	function	line:160
-section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:164
-a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/drones.png" alt="" data-position="center center" \/><\/a>$/;"	function	line:165
-div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:166
-div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:167
-h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>Remote Charging for Drones<\/h3>$/;"	function	line:168
-p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p> Built a system to support a network of remote charging pads that transacts payments for on the fly recharging for autonomous drones<\/p>$/;"	function	line:169
-a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/github.com\/DroneCharging\/DroneChargingPOC" class="button">GitHub<\/a>$/;"	function	line:170
-section	/Users/aakash/Documents/aakashparikh/index.html	/^					<section id="three" class="wrapper style1 fade-up">$/;"	function	line:178
-div	/Users/aakash/Documents/aakashparikh/index.html	/^						<div class="inner">$/;"	function	line:179
-h	/Users/aakash/Documents/aakashparikh/index.html	/^							<h2>Get in touch<\/h2>$/;"	function	line:180
-div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="contact">$/;"	function	line:181
-ul	/Users/aakash/Documents/aakashparikh/index.html	/^									<ul style="list-style-type:none;">$/;"	function	line:182
-li	/Users/aakash/Documents/aakashparikh/index.html	/^										<li>$/;"	function	line:183
-h	/Users/aakash/Documents/aakashparikh/index.html	/^											<h3>Location<\/h3>$/;"	function	line:184
-span	/Users/aakash/Documents/aakashparikh/index.html	/^											<span>San Francisco Bay Area<\/span>$/;"	function	line:185
-li	/Users/aakash/Documents/aakashparikh/index.html	/^										<li>$/;"	function	line:187
-h	/Users/aakash/Documents/aakashparikh/index.html	/^											<h3>Email<\/h3>$/;"	function	line:188
-span	/Users/aakash/Documents/aakashparikh/index.html	/^											<span>aparikh64_at_gmail_dot_com<\/span>$/;"	function	line:189
-li	/Users/aakash/Documents/aakashparikh/index.html	/^										<li>$/;"	function	line:191
-h	/Users/aakash/Documents/aakashparikh/index.html	/^											<h3>Social<\/h3>$/;"	function	line:192
-ul	/Users/aakash/Documents/aakashparikh/index.html	/^											<ul class="icons">$/;"	function	line:193
-li	/Users/aakash/Documents/aakashparikh/index.html	/^												<li><a href="https:\/\/www.linkedin.com\/in\/aakashparikh\/" class="icon brands fa-linkedin-in"><span class="label">LinkedIn<\/span><\/a><\/li>$/;"	function	line:194
-li	/Users/aakash/Documents/aakashparikh/index.html	/^												<li><a href="https:\/\/github.com\/aparikh98" class="icon brands fa-github"><span class="label">GitHub<\/span><\/a><\/li>$/;"	function	line:195
-li	/Users/aakash/Documents/aakashparikh/index.html	/^												<li><a href="https:\/\/www.facebook.com\/aparikh98" class="icon brands fa-facebook-f"><span class="label">Facebook<\/span><\/a><\/li>$/;"	function	line:196
-li	/Users/aakash/Documents/aakashparikh/index.html	/^												<li><a href="https:\/\/www.instagram.com\/aparikh98\/" class="icon brands fa-instagram"><span class="label">Instagram<\/span><\/a><\/li>$/;"	function	line:197
-footer	/Users/aakash/Documents/aakashparikh/index.html	/^			<footer id="footer" class="wrapper style1-alt">$/;"	function	line:207
-div	/Users/aakash/Documents/aakashparikh/index.html	/^				<div class="inner">$/;"	function	line:208
-ul	/Users/aakash/Documents/aakashparikh/index.html	/^					<ul class="menu">$/;"	function	line:209
-li	/Users/aakash/Documents/aakashparikh/index.html	/^						<li>&copy; Aakash Parikh 2020. All rights reserved.<\/li><li>Design: <a href="http:\/\/html5up.net">HTML5 UP<\/a><\/li>$/;"	function	line:210
-script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/jquery.min.js"><\/script>$/;"	function	line:216
-script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/jquery.scrollex.min.js"><\/script>$/;"	function	line:217
-script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/jquery.scrolly.min.js"><\/script>$/;"	function	line:218
-script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/browser.min.js"><\/script>$/;"	function	line:219
-script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/breakpoints.min.js"><\/script>$/;"	function	line:220
-script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/util.js"><\/script>$/;"	function	line:221
-script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/main.js"><\/script>$/;"	function	line:222
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h2>University of California Berkeley<\/h2>$/;"	function	line:57
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p>I completed my MS in Electrical Engineering (2020) and BA in Computer Science (2019) at UC Berkeley. My main focus areas were Machine Learning (Deep Learning and Reinforcement Learning), Graphics and AR\/VR and Robotics.$/;"	function	line:58
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:65
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/burrowing_robot.bmp" alt="" data-position="center center" \/><\/a>$/;"	function	line:66
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:67
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:68
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h2>Researcher at UC Berkeley PolyPEDAL Lab<\/h2>$/;"	function	line:69
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p>$/;"	function	line:70
+a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/www2.eecs.berkeley.edu\/Pubs\/TechRpts\/2020\/EECS-2020-43.html" class="button">Thesis<\/a>$/;"	function	line:74
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:78
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/burrowing_robot.bmp" alt="" data-position="center center" \/><\/a>$/;"	function	line:79
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:80
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:81
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h2>Researcher at UC Berkeley FHL Vive Center For Enhanced Reality<\/h2>$/;"	function	line:82
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:87
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/fb_logo.png" alt="" data-position="top center" \/><\/a>$/;"	function	line:88
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:89
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:90
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h2>Software Engineering Intern at Facebook<\/h2>$/;"	function	line:91
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p>I have interned at Facebook during the summers of 2019 and 2018<\/p>$/;"	function	line:92
+ul	/Users/aakash/Documents/aakashparikh/index.html	/^									<ul>$/;"	function	line:93
+li	/Users/aakash/Documents/aakashparikh/index.html	/^										<li>$/;"	function	line:94
+li	/Users/aakash/Documents/aakashparikh/index.html	/^										<li>$/;"	function	line:97
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:105
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/PayPal.png" alt="" data-position="25% 25%" \/><\/a>$/;"	function	line:106
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:107
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:108
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h2>Software Engineering Intern at PayPal<\/h2>$/;"	function	line:109
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p>I interned in the Financial Instruments team during Summer 2017 at PayPal in San Jose. <br>$/;"	function	line:110
+section	/Users/aakash/Documents/aakashparikh/index.html	/^					<section id="two" class="wrapper style3-alt spotlights">$/;"	function	line:118
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:119
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/low_prec.png" alt="" data-position="center center" \/><\/a>$/;"	function	line:120
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:121
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:122
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>Improving Low Precision Network Accuracy with Teacher Assistant Model Distillation<\/h2>$/;"	function	line:123
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p> Built pipeline to use intermediate teacher assistant networks to improve image classification accuracy in smaller models when distilling neural networks to smaller networks with lower precision forward activations<\/p>$/;"	function	line:124
+a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/docs.google.com\/document\/u\/1\/d\/e\/2PACX-1vTUb1h95VKj2pFijNMIBWviyx27M-3Nd0eOwShiKSClriybFUS1CpLHafistaHvt1TKHZEZd-sFM9xq\/pub" class="button">Write Up<\/a>$/;"	function	line:125
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:129
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/gfootball.png" alt="" data-position="center center" \/><\/a>$/;"	function	line:130
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:131
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:132
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>Cooperative Reinforcement Learning for Multiple Football Agents<\/h2>$/;"	function	line:133
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p> We developed and assessed scenarios for simultaneous learning, individual training and single agent controlling multiple players in order to better cooperatively play a simulation soccer game in Google Research’s Football environment<\/p>$/;"	function	line:134
+a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/docs.google.com\/document\/u\/1\/d\/e\/2PACX-1vQ6OVdp4gmj97aT-IHXQH6ArPRUy5pz-UNMk_OTnNpApqhMXepcvsuzARodhKYp2clTJXnx87ssih-9\/pub" class="button">Write Up<\/a>$/;"	function	line:135
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:139
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/deepracer.png" alt="" data-position="top center" \/><\/a>$/;"	function	line:140
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:141
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:142
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>AWS DeepRacer Control<\/h3>$/;"	function	line:143
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p>Assessed viability and performance of traditional controllers using only camera and IMU information compared to a reinforcement learning approach for AWS DeepRacer on a marked racetrack and reported results to Amazon research team and Berkeley MPC lab<\/p>$/;"	function	line:144
+a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/github.com\/junzengx14\/AWS-DeepRacer\/wiki" class="button">GitHub<\/a>$/;"	function	line:145
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:149
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/galaxy.png" alt="" data-position="25% 25%" \/><\/a>$/;"	function	line:150
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:151
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:152
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>Cosmological N-Body Simulator<\/h3>$/;"	function	line:153
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p>Built a real time in-browser large N-body simulation of star formation, galaxy coalescence and collisions with stunning visuals including light reflectance, scattering and cloud models<\/p>$/;"	function	line:154
+a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/aparikh98.github.io\/CosmologicalSimulation\/" class="button">Write Up<\/a>$/;"	function	line:155
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:159
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/fruitbot.png" alt="" data-position="top center" \/><\/a>$/;"	function	line:160
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:161
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:162
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>Fruitbot<\/h3>$/;"	function	line:163
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p>Determined a robust way for a Baxter industrial robot to locate, grasp and sort objects with a custom image pre-processing flow to account for varying orientations, shapes and sizes and a CNN to identify and locate objects<\/p>$/;"	function	line:164
+a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/fruitbot.weebly.com" class="button">Web Site<\/a>$/;"	function	line:165
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:169
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/messengermap.png" alt="" data-position="25% 25%" \/><\/a>$/;"	function	line:170
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:171
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:172
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>Messenger Friends Map<\/h3>$/;"	function	line:173
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p> Identify and visualize friend groups by scraping and modeling chat data to determine relative strength of friendships and connection networks using PageRank and MCMC algorithms<\/p>$/;"	function	line:174
+a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/drive.google.com\/file\/d\/1ARWxb7s43h_SEIIQvQFx-AxPxSLOj6Mb\/view?usp=sharing" class="button">Write Up<\/a>$/;"	function	line:175
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:179
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/drones.png" alt="" data-position="center center" \/><\/a>$/;"	function	line:180
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:181
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:182
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>Remote Charging for Drones<\/h3>$/;"	function	line:183
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p> Built a system to support a network of remote charging pads that transacts payments for on the fly recharging for autonomous drones<\/p>$/;"	function	line:184
+a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/github.com\/DroneCharging\/DroneChargingPOC" class="button">GitHub<\/a>$/;"	function	line:185
+section	/Users/aakash/Documents/aakashparikh/index.html	/^					<section id="three" class="wrapper style1 fade-up">$/;"	function	line:193
+div	/Users/aakash/Documents/aakashparikh/index.html	/^						<div class="inner">$/;"	function	line:194
+h	/Users/aakash/Documents/aakashparikh/index.html	/^							<h2>Get in touch<\/h2>$/;"	function	line:195
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="contact">$/;"	function	line:196
+ul	/Users/aakash/Documents/aakashparikh/index.html	/^									<ul style="list-style-type:none;">$/;"	function	line:197
+li	/Users/aakash/Documents/aakashparikh/index.html	/^										<li>$/;"	function	line:198
+h	/Users/aakash/Documents/aakashparikh/index.html	/^											<h3>Location<\/h3>$/;"	function	line:199
+span	/Users/aakash/Documents/aakashparikh/index.html	/^											<span>San Francisco Bay Area<\/span>$/;"	function	line:200
+li	/Users/aakash/Documents/aakashparikh/index.html	/^										<li>$/;"	function	line:202
+h	/Users/aakash/Documents/aakashparikh/index.html	/^											<h3>Email<\/h3>$/;"	function	line:203
+span	/Users/aakash/Documents/aakashparikh/index.html	/^											<span>aparikh64_at_gmail_dot_com<\/span>$/;"	function	line:204
+li	/Users/aakash/Documents/aakashparikh/index.html	/^										<li>$/;"	function	line:206
+h	/Users/aakash/Documents/aakashparikh/index.html	/^											<h3>Social<\/h3>$/;"	function	line:207
+ul	/Users/aakash/Documents/aakashparikh/index.html	/^											<ul class="icons">$/;"	function	line:208
+li	/Users/aakash/Documents/aakashparikh/index.html	/^												<li><a href="https:\/\/www.linkedin.com\/in\/aakashparikh\/" class="icon brands fa-linkedin-in"><span class="label">LinkedIn<\/span><\/a><\/li>$/;"	function	line:209
+li	/Users/aakash/Documents/aakashparikh/index.html	/^												<li><a href="https:\/\/github.com\/aparikh98" class="icon brands fa-github"><span class="label">GitHub<\/span><\/a><\/li>$/;"	function	line:210
+li	/Users/aakash/Documents/aakashparikh/index.html	/^												<li><a href="https:\/\/www.facebook.com\/aparikh98" class="icon brands fa-facebook-f"><span class="label">Facebook<\/span><\/a><\/li>$/;"	function	line:211
+li	/Users/aakash/Documents/aakashparikh/index.html	/^												<li><a href="https:\/\/www.instagram.com\/aparikh98\/" class="icon brands fa-instagram"><span class="label">Instagram<\/span><\/a><\/li>$/;"	function	line:212
+footer	/Users/aakash/Documents/aakashparikh/index.html	/^			<footer id="footer" class="wrapper style1-alt">$/;"	function	line:222
+div	/Users/aakash/Documents/aakashparikh/index.html	/^				<div class="inner">$/;"	function	line:223
+ul	/Users/aakash/Documents/aakashparikh/index.html	/^					<ul class="menu">$/;"	function	line:224
+li	/Users/aakash/Documents/aakashparikh/index.html	/^						<li>&copy; Aakash Parikh 2020. All rights reserved.<\/li><li>Design: <a href="http:\/\/html5up.net">HTML5 UP<\/a><\/li>$/;"	function	line:225
+script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/jquery.min.js"><\/script>$/;"	function	line:231
+script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/jquery.scrollex.min.js"><\/script>$/;"	function	line:232
+script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/jquery.scrolly.min.js"><\/script>$/;"	function	line:233
+script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/browser.min.js"><\/script>$/;"	function	line:234
+script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/breakpoints.min.js"><\/script>$/;"	function	line:235
+script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/util.js"><\/script>$/;"	function	line:236
+script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/main.js"><\/script>$/;"	function	line:237
