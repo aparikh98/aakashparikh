@@ -2236,3 +2236,1019 @@ html	/Users/aakash/Documents/Aakash Website/assets/sass/base/_page.scss	/^		html
 body	/Users/aakash/Documents/Aakash Website/assets/sass/base/_page.scss	/^	body {$/;"	function	line:36
 &.is-preload	/Users/aakash/Documents/Aakash Website/assets/sass/base/_page.scss	/^			&.is-preload {$/;"	function	line:40
 *, *:before, *:after	/Users/aakash/Documents/Aakash Website/assets/sass/base/_page.scss	/^				*, *:before, *:after {$/;"	function	line:41
+.spotlights2	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^	.spotlights2 {$/;"	function	line:9
+> section	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^		> section {$/;"	function	line:10
+body.is-ie &	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^			body.is-ie & {$/;"	function	line:15
+> .image	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^			> .image {$/;"	function	line:19
+img	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^				img {$/;"	function	line:27
+&:before	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^				&:before {$/;"	function	line:32
+@include vendor('transition', 'opacity #	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^					@include vendor('transition', 'opacity #{_duration(activation)} ease');$/;"	function	line:33
+> .content	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^			> .content {$/;"	function	line:46
+width: #	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^				width: #{_size(inner-width) - 25em};$/;"	function	line:51
+> .inner	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^				> .inner {$/;"	function	line:54
+'opacity #	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^						'opacity #{_duration(activation)} ease',$/;"	function	line:57
+'opacity #{_duration(activation)} ease'	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^						'opacity #{_duration(activation)} ease',$/;"	function	line:57
+'transform #	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^						'transform #{_duration(activation)} ease'$/;"	function	line:58
+&:nth-child(1)	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^			&:nth-child(1) {$/;"	function	line:64
+&:nth-child(2)	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^			&:nth-child(2) {$/;"	function	line:67
+&:nth-child(3)	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^			&:nth-child(3) {$/;"	function	line:71
+&.inactive	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^			&.inactive,$/;"	function	line:75
+body.is-preload &	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^			body.is-preload & {$/;"	function	line:76
+> .image	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^				> .image {$/;"	function	line:77
+&:before	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^					&:before {$/;"	function	line:78
+> .content	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^				> .content {$/;"	function	line:83
+> .inner	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^					> .inner {$/;"	function	line:84
+@include breakpoint('<=xlarge')	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^			@include breakpoint('<=xlarge') {$/;"	function	line:91
+> .content	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^				> .content {$/;"	function	line:92
+@include breakpoint('<=medium')	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^			@include breakpoint('<=medium') {$/;"	function	line:97
+> .image	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^				> .image {$/;"	function	line:100
+> .content	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^				> .content {$/;"	function	line:105
+&.inactive	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^				&.inactive,$/;"	function	line:109
+body.is-preload &	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^				body.is-preload & {$/;"	function	line:110
+> .content	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^					> .content {$/;"	function	line:111
+> .inner	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^						> .inner {$/;"	function	line:112
+@include breakpoint('<=small')	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^			@include breakpoint('<=small') {$/;"	function	line:119
+> .image	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^				> .image {$/;"	function	line:120
+> .content	/Users/aakash/Documents/aakashparikh/assets/sass/components/_spotlights2.scss	/^				> .content {$/;"	function	line:125
+html, body, div, span, applet, object	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^html, body, div, span, applet, object,$/;"	function	line:9
+iframe, h1, h2, h3, h4, h5, h6, p, blockquote	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^iframe, h1, h2, h3, h4, h5, h6, p, blockquote,$/;"	function	line:10
+pre, a, abbr, acronym, address, big, cite	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^pre, a, abbr, acronym, address, big, cite,$/;"	function	line:11
+code, del, dfn, em, img, ins, kbd, q, s, samp	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^code, del, dfn, em, img, ins, kbd, q, s, samp,$/;"	function	line:12
+small, strike, strong, sub, sup, tt, var, b	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^small, strike, strong, sub, sup, tt, var, b,$/;"	function	line:13
+u, i, center, dl, dt, dd, ol, ul, li, fieldset	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^u, i, center, dl, dt, dd, ol, ul, li, fieldset,$/;"	function	line:14
+form, label, legend, table, caption, tbody	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^form, label, legend, table, caption, tbody,$/;"	function	line:15
+tfoot, thead, tr, th, td, article, aside	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^tfoot, thead, tr, th, td, article, aside,$/;"	function	line:16
+canvas, details, embed, figure, figcaption	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^canvas, details, embed, figure, figcaption,$/;"	function	line:17
+footer, header, hgroup, menu, nav, output, ruby	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^footer, header, hgroup, menu, nav, output, ruby,$/;"	function	line:18
+section, summary, time, mark, audio, video	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^section, summary, time, mark, audio, video {$/;"	function	line:19
+article, aside, details, figcaption, figure	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^article, aside, details, figcaption, figure,$/;"	function	line:27
+footer, header, hgroup, menu, nav, section	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^footer, header, hgroup, menu, nav, section {$/;"	function	line:28
+body	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^body {$/;"	function	line:31
+ol, ul	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^ol, ul {$/;"	function	line:35
+blockquote, q	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^blockquote, q {$/;"	function	line:39
+blockquote:before, blockquote:after, q:before, q:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	blockquote:before, blockquote:after, q:before, q:after {$/;"	function	line:43
+table	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^table {$/;"	function	line:48
+body	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^body {$/;"	function	line:53
+mark	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^mark {$/;"	function	line:57
+input::-moz-focus-inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^input::-moz-focus-inner {$/;"	function	line:62
+input, select, textarea	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^input, select, textarea {$/;"	function	line:67
+@-ms-viewport	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	@-ms-viewport {$/;"	function	line:76
+body	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	body {$/;"	function	line:80
+@media screen and (max-width: 480px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	@media screen and (max-width: 480px) {$/;"	function	line:84
+html, body	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		html, body {$/;"	function	line:86
+html	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	html {$/;"	function	line:92
+*, *:before, *:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	*, *:before, *:after {$/;"	function	line:96
+body	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	body {$/;"	function	line:100
+body.is-preload *, body.is-preload *:before, body.is-preload *:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		body.is-preload *, body.is-preload *:before, body.is-preload *:after {$/;"	function	line:104
+body, input, select, textarea	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	body, input, select, textarea {$/;"	function	line:117
+@media screen and (max-width: 1680px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 1680px) {$/;"	function	line:125
+body, input, select, textarea	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			body, input, select, textarea {$/;"	function	line:127
+@media screen and (max-width: 1280px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 1280px) {$/;"	function	line:133
+body, input, select, textarea	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			body, input, select, textarea {$/;"	function	line:135
+@media screen and (max-width: 360px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 360px) {$/;"	function	line:141
+body, input, select, textarea	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			body, input, select, textarea {$/;"	function	line:143
+a	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	a {$/;"	function	line:149
+a:hover	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		a:hover {$/;"	function	line:159
+strong, b	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	strong, b {$/;"	function	line:164
+em, i	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	em, i {$/;"	function	line:169
+p	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	p {$/;"	function	line:173
+h1, h2, h3, h4, h5, h6	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	h1, h2, h3, h4, h5, h6 {$/;"	function	line:177
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {$/;"	function	line:184
+h1	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	h1 {$/;"	function	line:189
+h1.major	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		h1.major {$/;"	function	line:193
+h1.major:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			h1.major:after {$/;"	function	line:199
+h2	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	h2 {$/;"	function	line:217
+h3	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	h3 {$/;"	function	line:221
+h4	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	h4 {$/;"	function	line:225
+h5	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	h5 {$/;"	function	line:229
+h6	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	h6 {$/;"	function	line:233
+@media screen and (max-width: 736px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	@media screen and (max-width: 736px) {$/;"	function	line:237
+h1	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		h1 {$/;"	function	line:239
+h2	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		h2 {$/;"	function	line:243
+h3	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		h3 {$/;"	function	line:247
+h4	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		h4 {$/;"	function	line:251
+h5	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		h5 {$/;"	function	line:255
+h6	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		h6 {$/;"	function	line:259
+sub	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	sub {$/;"	function	line:265
+sup	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	sup {$/;"	function	line:271
+blockquote	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	blockquote {$/;"	function	line:277
+code	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	code {$/;"	function	line:284
+pre	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	pre {$/;"	function	line:294
+pre code	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		pre code {$/;"	function	line:301
+hr	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	hr {$/;"	function	line:308
+hr.major	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		hr.major {$/;"	function	line:314
+.align-left	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	.align-left {$/;"	function	line:318
+.align-center	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	.align-center {$/;"	function	line:322
+.align-right	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	.align-right {$/;"	function	line:326
+.row	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	.row {$/;"	function	line:332
+.row > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > * {$/;"	function	line:339
+.row.gtr-uniform > * > :last-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row.gtr-uniform > * > :last-child {$/;"	function	line:343
+.row.aln-left	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row.aln-left {$/;"	function	line:347
+.row.aln-center	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row.aln-center {$/;"	function	line:351
+.row.aln-right	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row.aln-right {$/;"	function	line:355
+.row.aln-top	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row.aln-top {$/;"	function	line:359
+.row.aln-middle	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row.aln-middle {$/;"	function	line:363
+.row.aln-bottom	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row.aln-bottom {$/;"	function	line:367
+.row > .imp	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .imp {$/;"	function	line:371
+.row > .col-1	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .col-1 {$/;"	function	line:375
+.row > .off-1	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .off-1 {$/;"	function	line:379
+.row > .col-2	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .col-2 {$/;"	function	line:383
+.row > .off-2	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .off-2 {$/;"	function	line:387
+.row > .col-3	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .col-3 {$/;"	function	line:391
+.row > .off-3	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .off-3 {$/;"	function	line:395
+.row > .col-4	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .col-4 {$/;"	function	line:399
+.row > .off-4	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .off-4 {$/;"	function	line:403
+.row > .col-5	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .col-5 {$/;"	function	line:407
+.row > .off-5	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .off-5 {$/;"	function	line:411
+.row > .col-6	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .col-6 {$/;"	function	line:415
+.row > .off-6	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .off-6 {$/;"	function	line:419
+.row > .col-7	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .col-7 {$/;"	function	line:423
+.row > .off-7	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .off-7 {$/;"	function	line:427
+.row > .col-8	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .col-8 {$/;"	function	line:431
+.row > .off-8	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .off-8 {$/;"	function	line:435
+.row > .col-9	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .col-9 {$/;"	function	line:439
+.row > .off-9	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .off-9 {$/;"	function	line:443
+.row > .col-10	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .col-10 {$/;"	function	line:447
+.row > .off-10	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .off-10 {$/;"	function	line:451
+.row > .col-11	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .col-11 {$/;"	function	line:455
+.row > .off-11	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .off-11 {$/;"	function	line:459
+.row > .col-12	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .col-12 {$/;"	function	line:463
+.row > .off-12	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row > .off-12 {$/;"	function	line:467
+.row.gtr-0	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row.gtr-0 {$/;"	function	line:471
+.row.gtr-0 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.row.gtr-0 > * {$/;"	function	line:476
+.row.gtr-0.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.row.gtr-0.gtr-uniform {$/;"	function	line:480
+.row.gtr-0.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-0.gtr-uniform > * {$/;"	function	line:484
+.row.gtr-25	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row.gtr-25 {$/;"	function	line:488
+.row.gtr-25 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.row.gtr-25 > * {$/;"	function	line:493
+.row.gtr-25.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.row.gtr-25.gtr-uniform {$/;"	function	line:497
+.row.gtr-25.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-25.gtr-uniform > * {$/;"	function	line:501
+.row.gtr-50	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row.gtr-50 {$/;"	function	line:505
+.row.gtr-50 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.row.gtr-50 > * {$/;"	function	line:510
+.row.gtr-50.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.row.gtr-50.gtr-uniform {$/;"	function	line:514
+.row.gtr-50.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-50.gtr-uniform > * {$/;"	function	line:518
+.row	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row {$/;"	function	line:522
+.row > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.row > * {$/;"	function	line:527
+.row.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.row.gtr-uniform {$/;"	function	line:531
+.row.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-uniform > * {$/;"	function	line:535
+.row.gtr-150	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row.gtr-150 {$/;"	function	line:539
+.row.gtr-150 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.row.gtr-150 > * {$/;"	function	line:544
+.row.gtr-150.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.row.gtr-150.gtr-uniform {$/;"	function	line:548
+.row.gtr-150.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-150.gtr-uniform > * {$/;"	function	line:552
+.row.gtr-200	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.row.gtr-200 {$/;"	function	line:556
+.row.gtr-200 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.row.gtr-200 > * {$/;"	function	line:561
+.row.gtr-200.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.row.gtr-200.gtr-uniform {$/;"	function	line:565
+.row.gtr-200.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-200.gtr-uniform > * {$/;"	function	line:569
+@media screen and (max-width: 1680px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 1680px) {$/;"	function	line:573
+.row	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.row {$/;"	function	line:575
+.row > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > * {$/;"	function	line:582
+.row.gtr-uniform > * > :last-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-uniform > * > :last-child {$/;"	function	line:586
+.row.aln-left	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-left {$/;"	function	line:590
+.row.aln-center	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-center {$/;"	function	line:594
+.row.aln-right	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-right {$/;"	function	line:598
+.row.aln-top	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-top {$/;"	function	line:602
+.row.aln-middle	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-middle {$/;"	function	line:606
+.row.aln-bottom	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-bottom {$/;"	function	line:610
+.row > .imp-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .imp-xlarge {$/;"	function	line:614
+.row > .col-1-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-1-xlarge {$/;"	function	line:618
+.row > .off-1-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-1-xlarge {$/;"	function	line:622
+.row > .col-2-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-2-xlarge {$/;"	function	line:626
+.row > .off-2-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-2-xlarge {$/;"	function	line:630
+.row > .col-3-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-3-xlarge {$/;"	function	line:634
+.row > .off-3-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-3-xlarge {$/;"	function	line:638
+.row > .col-4-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-4-xlarge {$/;"	function	line:642
+.row > .off-4-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-4-xlarge {$/;"	function	line:646
+.row > .col-5-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-5-xlarge {$/;"	function	line:650
+.row > .off-5-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-5-xlarge {$/;"	function	line:654
+.row > .col-6-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-6-xlarge {$/;"	function	line:658
+.row > .off-6-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-6-xlarge {$/;"	function	line:662
+.row > .col-7-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-7-xlarge {$/;"	function	line:666
+.row > .off-7-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-7-xlarge {$/;"	function	line:670
+.row > .col-8-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-8-xlarge {$/;"	function	line:674
+.row > .off-8-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-8-xlarge {$/;"	function	line:678
+.row > .col-9-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-9-xlarge {$/;"	function	line:682
+.row > .off-9-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-9-xlarge {$/;"	function	line:686
+.row > .col-10-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-10-xlarge {$/;"	function	line:690
+.row > .off-10-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-10-xlarge {$/;"	function	line:694
+.row > .col-11-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-11-xlarge {$/;"	function	line:698
+.row > .off-11-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-11-xlarge {$/;"	function	line:702
+.row > .col-12-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-12-xlarge {$/;"	function	line:706
+.row > .off-12-xlarge	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-12-xlarge {$/;"	function	line:710
+.row.gtr-0	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-0 {$/;"	function	line:714
+.row.gtr-0 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-0 > * {$/;"	function	line:719
+.row.gtr-0.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-0.gtr-uniform {$/;"	function	line:723
+.row.gtr-0.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-0.gtr-uniform > * {$/;"	function	line:727
+.row.gtr-25	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-25 {$/;"	function	line:731
+.row.gtr-25 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-25 > * {$/;"	function	line:736
+.row.gtr-25.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-25.gtr-uniform {$/;"	function	line:740
+.row.gtr-25.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-25.gtr-uniform > * {$/;"	function	line:744
+.row.gtr-50	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-50 {$/;"	function	line:748
+.row.gtr-50 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-50 > * {$/;"	function	line:753
+.row.gtr-50.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-50.gtr-uniform {$/;"	function	line:757
+.row.gtr-50.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-50.gtr-uniform > * {$/;"	function	line:761
+.row	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row {$/;"	function	line:765
+.row > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row > * {$/;"	function	line:770
+.row.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-uniform {$/;"	function	line:774
+.row.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-uniform > * {$/;"	function	line:778
+.row.gtr-150	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-150 {$/;"	function	line:782
+.row.gtr-150 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-150 > * {$/;"	function	line:787
+.row.gtr-150.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-150.gtr-uniform {$/;"	function	line:791
+.row.gtr-150.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-150.gtr-uniform > * {$/;"	function	line:795
+.row.gtr-200	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-200 {$/;"	function	line:799
+.row.gtr-200 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-200 > * {$/;"	function	line:804
+.row.gtr-200.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-200.gtr-uniform {$/;"	function	line:808
+.row.gtr-200.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-200.gtr-uniform > * {$/;"	function	line:812
+@media screen and (max-width: 1280px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 1280px) {$/;"	function	line:818
+.row	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.row {$/;"	function	line:820
+.row > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > * {$/;"	function	line:827
+.row.gtr-uniform > * > :last-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-uniform > * > :last-child {$/;"	function	line:831
+.row.aln-left	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-left {$/;"	function	line:835
+.row.aln-center	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-center {$/;"	function	line:839
+.row.aln-right	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-right {$/;"	function	line:843
+.row.aln-top	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-top {$/;"	function	line:847
+.row.aln-middle	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-middle {$/;"	function	line:851
+.row.aln-bottom	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-bottom {$/;"	function	line:855
+.row > .imp-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .imp-large {$/;"	function	line:859
+.row > .col-1-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-1-large {$/;"	function	line:863
+.row > .off-1-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-1-large {$/;"	function	line:867
+.row > .col-2-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-2-large {$/;"	function	line:871
+.row > .off-2-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-2-large {$/;"	function	line:875
+.row > .col-3-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-3-large {$/;"	function	line:879
+.row > .off-3-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-3-large {$/;"	function	line:883
+.row > .col-4-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-4-large {$/;"	function	line:887
+.row > .off-4-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-4-large {$/;"	function	line:891
+.row > .col-5-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-5-large {$/;"	function	line:895
+.row > .off-5-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-5-large {$/;"	function	line:899
+.row > .col-6-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-6-large {$/;"	function	line:903
+.row > .off-6-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-6-large {$/;"	function	line:907
+.row > .col-7-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-7-large {$/;"	function	line:911
+.row > .off-7-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-7-large {$/;"	function	line:915
+.row > .col-8-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-8-large {$/;"	function	line:919
+.row > .off-8-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-8-large {$/;"	function	line:923
+.row > .col-9-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-9-large {$/;"	function	line:927
+.row > .off-9-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-9-large {$/;"	function	line:931
+.row > .col-10-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-10-large {$/;"	function	line:935
+.row > .off-10-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-10-large {$/;"	function	line:939
+.row > .col-11-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-11-large {$/;"	function	line:943
+.row > .off-11-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-11-large {$/;"	function	line:947
+.row > .col-12-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-12-large {$/;"	function	line:951
+.row > .off-12-large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-12-large {$/;"	function	line:955
+.row.gtr-0	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-0 {$/;"	function	line:959
+.row.gtr-0 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-0 > * {$/;"	function	line:964
+.row.gtr-0.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-0.gtr-uniform {$/;"	function	line:968
+.row.gtr-0.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-0.gtr-uniform > * {$/;"	function	line:972
+.row.gtr-25	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-25 {$/;"	function	line:976
+.row.gtr-25 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-25 > * {$/;"	function	line:981
+.row.gtr-25.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-25.gtr-uniform {$/;"	function	line:985
+.row.gtr-25.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-25.gtr-uniform > * {$/;"	function	line:989
+.row.gtr-50	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-50 {$/;"	function	line:993
+.row.gtr-50 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-50 > * {$/;"	function	line:998
+.row.gtr-50.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-50.gtr-uniform {$/;"	function	line:1002
+.row.gtr-50.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-50.gtr-uniform > * {$/;"	function	line:1006
+.row	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row {$/;"	function	line:1010
+.row > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row > * {$/;"	function	line:1015
+.row.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-uniform {$/;"	function	line:1019
+.row.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-uniform > * {$/;"	function	line:1023
+.row.gtr-150	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-150 {$/;"	function	line:1027
+.row.gtr-150 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-150 > * {$/;"	function	line:1032
+.row.gtr-150.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-150.gtr-uniform {$/;"	function	line:1036
+.row.gtr-150.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-150.gtr-uniform > * {$/;"	function	line:1040
+.row.gtr-200	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-200 {$/;"	function	line:1044
+.row.gtr-200 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-200 > * {$/;"	function	line:1049
+.row.gtr-200.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-200.gtr-uniform {$/;"	function	line:1053
+.row.gtr-200.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-200.gtr-uniform > * {$/;"	function	line:1057
+@media screen and (max-width: 980px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 980px) {$/;"	function	line:1063
+.row	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.row {$/;"	function	line:1065
+.row > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > * {$/;"	function	line:1072
+.row.gtr-uniform > * > :last-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-uniform > * > :last-child {$/;"	function	line:1076
+.row.aln-left	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-left {$/;"	function	line:1080
+.row.aln-center	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-center {$/;"	function	line:1084
+.row.aln-right	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-right {$/;"	function	line:1088
+.row.aln-top	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-top {$/;"	function	line:1092
+.row.aln-middle	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-middle {$/;"	function	line:1096
+.row.aln-bottom	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-bottom {$/;"	function	line:1100
+.row > .imp-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .imp-medium {$/;"	function	line:1104
+.row > .col-1-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-1-medium {$/;"	function	line:1108
+.row > .off-1-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-1-medium {$/;"	function	line:1112
+.row > .col-2-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-2-medium {$/;"	function	line:1116
+.row > .off-2-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-2-medium {$/;"	function	line:1120
+.row > .col-3-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-3-medium {$/;"	function	line:1124
+.row > .off-3-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-3-medium {$/;"	function	line:1128
+.row > .col-4-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-4-medium {$/;"	function	line:1132
+.row > .off-4-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-4-medium {$/;"	function	line:1136
+.row > .col-5-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-5-medium {$/;"	function	line:1140
+.row > .off-5-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-5-medium {$/;"	function	line:1144
+.row > .col-6-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-6-medium {$/;"	function	line:1148
+.row > .off-6-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-6-medium {$/;"	function	line:1152
+.row > .col-7-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-7-medium {$/;"	function	line:1156
+.row > .off-7-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-7-medium {$/;"	function	line:1160
+.row > .col-8-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-8-medium {$/;"	function	line:1164
+.row > .off-8-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-8-medium {$/;"	function	line:1168
+.row > .col-9-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-9-medium {$/;"	function	line:1172
+.row > .off-9-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-9-medium {$/;"	function	line:1176
+.row > .col-10-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-10-medium {$/;"	function	line:1180
+.row > .off-10-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-10-medium {$/;"	function	line:1184
+.row > .col-11-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-11-medium {$/;"	function	line:1188
+.row > .off-11-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-11-medium {$/;"	function	line:1192
+.row > .col-12-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-12-medium {$/;"	function	line:1196
+.row > .off-12-medium	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-12-medium {$/;"	function	line:1200
+.row.gtr-0	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-0 {$/;"	function	line:1204
+.row.gtr-0 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-0 > * {$/;"	function	line:1209
+.row.gtr-0.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-0.gtr-uniform {$/;"	function	line:1213
+.row.gtr-0.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-0.gtr-uniform > * {$/;"	function	line:1217
+.row.gtr-25	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-25 {$/;"	function	line:1221
+.row.gtr-25 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-25 > * {$/;"	function	line:1226
+.row.gtr-25.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-25.gtr-uniform {$/;"	function	line:1230
+.row.gtr-25.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-25.gtr-uniform > * {$/;"	function	line:1234
+.row.gtr-50	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-50 {$/;"	function	line:1238
+.row.gtr-50 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-50 > * {$/;"	function	line:1243
+.row.gtr-50.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-50.gtr-uniform {$/;"	function	line:1247
+.row.gtr-50.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-50.gtr-uniform > * {$/;"	function	line:1251
+.row	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row {$/;"	function	line:1255
+.row > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row > * {$/;"	function	line:1260
+.row.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-uniform {$/;"	function	line:1264
+.row.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-uniform > * {$/;"	function	line:1268
+.row.gtr-150	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-150 {$/;"	function	line:1272
+.row.gtr-150 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-150 > * {$/;"	function	line:1277
+.row.gtr-150.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-150.gtr-uniform {$/;"	function	line:1281
+.row.gtr-150.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-150.gtr-uniform > * {$/;"	function	line:1285
+.row.gtr-200	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-200 {$/;"	function	line:1289
+.row.gtr-200 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-200 > * {$/;"	function	line:1294
+.row.gtr-200.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-200.gtr-uniform {$/;"	function	line:1298
+.row.gtr-200.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-200.gtr-uniform > * {$/;"	function	line:1302
+@media screen and (max-width: 736px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 736px) {$/;"	function	line:1308
+.row	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.row {$/;"	function	line:1310
+.row > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > * {$/;"	function	line:1317
+.row.gtr-uniform > * > :last-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-uniform > * > :last-child {$/;"	function	line:1321
+.row.aln-left	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-left {$/;"	function	line:1325
+.row.aln-center	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-center {$/;"	function	line:1329
+.row.aln-right	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-right {$/;"	function	line:1333
+.row.aln-top	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-top {$/;"	function	line:1337
+.row.aln-middle	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-middle {$/;"	function	line:1341
+.row.aln-bottom	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-bottom {$/;"	function	line:1345
+.row > .imp-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .imp-small {$/;"	function	line:1349
+.row > .col-1-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-1-small {$/;"	function	line:1353
+.row > .off-1-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-1-small {$/;"	function	line:1357
+.row > .col-2-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-2-small {$/;"	function	line:1361
+.row > .off-2-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-2-small {$/;"	function	line:1365
+.row > .col-3-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-3-small {$/;"	function	line:1369
+.row > .off-3-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-3-small {$/;"	function	line:1373
+.row > .col-4-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-4-small {$/;"	function	line:1377
+.row > .off-4-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-4-small {$/;"	function	line:1381
+.row > .col-5-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-5-small {$/;"	function	line:1385
+.row > .off-5-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-5-small {$/;"	function	line:1389
+.row > .col-6-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-6-small {$/;"	function	line:1393
+.row > .off-6-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-6-small {$/;"	function	line:1397
+.row > .col-7-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-7-small {$/;"	function	line:1401
+.row > .off-7-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-7-small {$/;"	function	line:1405
+.row > .col-8-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-8-small {$/;"	function	line:1409
+.row > .off-8-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-8-small {$/;"	function	line:1413
+.row > .col-9-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-9-small {$/;"	function	line:1417
+.row > .off-9-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-9-small {$/;"	function	line:1421
+.row > .col-10-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-10-small {$/;"	function	line:1425
+.row > .off-10-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-10-small {$/;"	function	line:1429
+.row > .col-11-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-11-small {$/;"	function	line:1433
+.row > .off-11-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-11-small {$/;"	function	line:1437
+.row > .col-12-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-12-small {$/;"	function	line:1441
+.row > .off-12-small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-12-small {$/;"	function	line:1445
+.row.gtr-0	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-0 {$/;"	function	line:1449
+.row.gtr-0 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-0 > * {$/;"	function	line:1454
+.row.gtr-0.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-0.gtr-uniform {$/;"	function	line:1458
+.row.gtr-0.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-0.gtr-uniform > * {$/;"	function	line:1462
+.row.gtr-25	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-25 {$/;"	function	line:1466
+.row.gtr-25 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-25 > * {$/;"	function	line:1471
+.row.gtr-25.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-25.gtr-uniform {$/;"	function	line:1475
+.row.gtr-25.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-25.gtr-uniform > * {$/;"	function	line:1479
+.row.gtr-50	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-50 {$/;"	function	line:1483
+.row.gtr-50 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-50 > * {$/;"	function	line:1488
+.row.gtr-50.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-50.gtr-uniform {$/;"	function	line:1492
+.row.gtr-50.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-50.gtr-uniform > * {$/;"	function	line:1496
+.row	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row {$/;"	function	line:1500
+.row > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row > * {$/;"	function	line:1505
+.row.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-uniform {$/;"	function	line:1509
+.row.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-uniform > * {$/;"	function	line:1513
+.row.gtr-150	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-150 {$/;"	function	line:1517
+.row.gtr-150 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-150 > * {$/;"	function	line:1522
+.row.gtr-150.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-150.gtr-uniform {$/;"	function	line:1526
+.row.gtr-150.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-150.gtr-uniform > * {$/;"	function	line:1530
+.row.gtr-200	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-200 {$/;"	function	line:1534
+.row.gtr-200 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-200 > * {$/;"	function	line:1539
+.row.gtr-200.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-200.gtr-uniform {$/;"	function	line:1543
+.row.gtr-200.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-200.gtr-uniform > * {$/;"	function	line:1547
+@media screen and (max-width: 480px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 480px) {$/;"	function	line:1553
+.row	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.row {$/;"	function	line:1555
+.row > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > * {$/;"	function	line:1562
+.row.gtr-uniform > * > :last-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-uniform > * > :last-child {$/;"	function	line:1566
+.row.aln-left	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-left {$/;"	function	line:1570
+.row.aln-center	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-center {$/;"	function	line:1574
+.row.aln-right	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-right {$/;"	function	line:1578
+.row.aln-top	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-top {$/;"	function	line:1582
+.row.aln-middle	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-middle {$/;"	function	line:1586
+.row.aln-bottom	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.aln-bottom {$/;"	function	line:1590
+.row > .imp-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .imp-xsmall {$/;"	function	line:1594
+.row > .col-1-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-1-xsmall {$/;"	function	line:1598
+.row > .off-1-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-1-xsmall {$/;"	function	line:1602
+.row > .col-2-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-2-xsmall {$/;"	function	line:1606
+.row > .off-2-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-2-xsmall {$/;"	function	line:1610
+.row > .col-3-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-3-xsmall {$/;"	function	line:1614
+.row > .off-3-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-3-xsmall {$/;"	function	line:1618
+.row > .col-4-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-4-xsmall {$/;"	function	line:1622
+.row > .off-4-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-4-xsmall {$/;"	function	line:1626
+.row > .col-5-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-5-xsmall {$/;"	function	line:1630
+.row > .off-5-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-5-xsmall {$/;"	function	line:1634
+.row > .col-6-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-6-xsmall {$/;"	function	line:1638
+.row > .off-6-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-6-xsmall {$/;"	function	line:1642
+.row > .col-7-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-7-xsmall {$/;"	function	line:1646
+.row > .off-7-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-7-xsmall {$/;"	function	line:1650
+.row > .col-8-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-8-xsmall {$/;"	function	line:1654
+.row > .off-8-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-8-xsmall {$/;"	function	line:1658
+.row > .col-9-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-9-xsmall {$/;"	function	line:1662
+.row > .off-9-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-9-xsmall {$/;"	function	line:1666
+.row > .col-10-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-10-xsmall {$/;"	function	line:1670
+.row > .off-10-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-10-xsmall {$/;"	function	line:1674
+.row > .col-11-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-11-xsmall {$/;"	function	line:1678
+.row > .off-11-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-11-xsmall {$/;"	function	line:1682
+.row > .col-12-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .col-12-xsmall {$/;"	function	line:1686
+.row > .off-12-xsmall	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row > .off-12-xsmall {$/;"	function	line:1690
+.row.gtr-0	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-0 {$/;"	function	line:1694
+.row.gtr-0 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-0 > * {$/;"	function	line:1699
+.row.gtr-0.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-0.gtr-uniform {$/;"	function	line:1703
+.row.gtr-0.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-0.gtr-uniform > * {$/;"	function	line:1707
+.row.gtr-25	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-25 {$/;"	function	line:1711
+.row.gtr-25 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-25 > * {$/;"	function	line:1716
+.row.gtr-25.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-25.gtr-uniform {$/;"	function	line:1720
+.row.gtr-25.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-25.gtr-uniform > * {$/;"	function	line:1724
+.row.gtr-50	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-50 {$/;"	function	line:1728
+.row.gtr-50 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-50 > * {$/;"	function	line:1733
+.row.gtr-50.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-50.gtr-uniform {$/;"	function	line:1737
+.row.gtr-50.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-50.gtr-uniform > * {$/;"	function	line:1741
+.row	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row {$/;"	function	line:1745
+.row > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row > * {$/;"	function	line:1750
+.row.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-uniform {$/;"	function	line:1754
+.row.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-uniform > * {$/;"	function	line:1758
+.row.gtr-150	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-150 {$/;"	function	line:1762
+.row.gtr-150 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-150 > * {$/;"	function	line:1767
+.row.gtr-150.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-150.gtr-uniform {$/;"	function	line:1771
+.row.gtr-150.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-150.gtr-uniform > * {$/;"	function	line:1775
+.row.gtr-200	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.row.gtr-200 {$/;"	function	line:1779
+.row.gtr-200 > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-200 > * {$/;"	function	line:1784
+.row.gtr-200.gtr-uniform	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.row.gtr-200.gtr-uniform {$/;"	function	line:1788
+.row.gtr-200.gtr-uniform > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						.row.gtr-200.gtr-uniform > * {$/;"	function	line:1792
+.box	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	.box {$/;"	function	line:1800
+.box > :last-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.box > :last-child,$/;"	function	line:1807
+.box > :last-child > :last-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.box > :last-child > :last-child,$/;"	function	line:1808
+.box > :last-child > :last-child > :last-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.box > :last-child > :last-child > :last-child {$/;"	function	line:1809
+.box.alt	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.box.alt {$/;"	function	line:1813
+input[type="submit"]	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	input[type="submit"],$/;"	function	line:1821
+input[type="reset"]	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	input[type="reset"],$/;"	function	line:1822
+input[type="button"]	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	input[type="button"],$/;"	function	line:1823
+button	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	button,$/;"	function	line:1824
+.button	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	.button {$/;"	function	line:1825
+input[type="submit"]:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="submit"]:after,$/;"	function	line:1855
+input[type="reset"]:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="reset"]:after,$/;"	function	line:1856
+input[type="button"]:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="button"]:after,$/;"	function	line:1857
+button:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		button:after,$/;"	function	line:1858
+.button:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.button:after {$/;"	function	line:1859
+input[type="submit"].icon:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="submit"].icon:before,$/;"	function	line:1880
+input[type="reset"].icon:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="reset"].icon:before,$/;"	function	line:1881
+input[type="button"].icon:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="button"].icon:before,$/;"	function	line:1882
+button.icon:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		button.icon:before,$/;"	function	line:1883
+.button.icon:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.button.icon:before {$/;"	function	line:1884
+input[type="submit"].fit	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="submit"].fit,$/;"	function	line:1888
+input[type="reset"].fit	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="reset"].fit,$/;"	function	line:1889
+input[type="button"].fit	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="button"].fit,$/;"	function	line:1890
+button.fit	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		button.fit,$/;"	function	line:1891
+.button.fit	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.button.fit {$/;"	function	line:1892
+input[type="submit"].small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="submit"].small,$/;"	function	line:1896
+input[type="reset"].small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="reset"].small,$/;"	function	line:1897
+input[type="button"].small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="button"].small,$/;"	function	line:1898
+button.small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		button.small,$/;"	function	line:1899
+.button.small	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.button.small {$/;"	function	line:1900
+input[type="submit"].large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="submit"].large,$/;"	function	line:1904
+input[type="reset"].large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="reset"].large,$/;"	function	line:1905
+input[type="button"].large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="button"].large,$/;"	function	line:1906
+button.large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		button.large,$/;"	function	line:1907
+.button.large	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.button.large {$/;"	function	line:1908
+input[type="submit"].primary	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="submit"].primary,$/;"	function	line:1912
+input[type="reset"].primary	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="reset"].primary,$/;"	function	line:1913
+input[type="button"].primary	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="button"].primary,$/;"	function	line:1914
+button.primary	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		button.primary,$/;"	function	line:1915
+.button.primary	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.button.primary {$/;"	function	line:1916
+input[type="submit"].primary:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			input[type="submit"].primary:after,$/;"	function	line:1921
+input[type="reset"].primary:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			input[type="reset"].primary:after,$/;"	function	line:1922
+input[type="button"].primary:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			input[type="button"].primary:after,$/;"	function	line:1923
+button.primary:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			button.primary:after,$/;"	function	line:1924
+.button.primary:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.button.primary:after {$/;"	function	line:1925
+input[type="submit"].disabled, input[type="submit"]:disabled	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="submit"].disabled, input[type="submit"]:disabled,$/;"	function	line:1929
+input[type="reset"].disabled	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="reset"].disabled,$/;"	function	line:1930
+input[type="reset"]:disabled	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="reset"]:disabled,$/;"	function	line:1931
+input[type="button"].disabled	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="button"].disabled,$/;"	function	line:1932
+input[type="button"]:disabled	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="button"]:disabled,$/;"	function	line:1933
+button.disabled	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		button.disabled,$/;"	function	line:1934
+button:disabled	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		button:disabled,$/;"	function	line:1935
+.button.disabled	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.button.disabled,$/;"	function	line:1936
+.button:disabled	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.button:disabled {$/;"	function	line:1937
+input[type="submit"]:hover	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="submit"]:hover,$/;"	function	line:1943
+input[type="reset"]:hover	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="reset"]:hover,$/;"	function	line:1944
+input[type="button"]:hover	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="button"]:hover,$/;"	function	line:1945
+button:hover	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		button:hover,$/;"	function	line:1946
+.button:hover	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.button:hover {$/;"	function	line:1947
+input[type="submit"]:hover:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			input[type="submit"]:hover:after,$/;"	function	line:1951
+input[type="reset"]:hover:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			input[type="reset"]:hover:after,$/;"	function	line:1952
+input[type="button"]:hover:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			input[type="button"]:hover:after,$/;"	function	line:1953
+button:hover:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			button:hover:after,$/;"	function	line:1954
+.button:hover:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.button:hover:after {$/;"	function	line:1955
+input[type="submit"]:hover:active	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			input[type="submit"]:hover:active,$/;"	function	line:1963
+input[type="reset"]:hover:active	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			input[type="reset"]:hover:active,$/;"	function	line:1964
+input[type="button"]:hover:active	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			input[type="button"]:hover:active,$/;"	function	line:1965
+button:hover:active	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			button:hover:active,$/;"	function	line:1966
+.button:hover:active	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.button:hover:active {$/;"	function	line:1967
+input[type="submit"]:hover:active:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				input[type="submit"]:hover:active:after,$/;"	function	line:1971
+input[type="reset"]:hover:active:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				input[type="reset"]:hover:active:after,$/;"	function	line:1972
+input[type="button"]:hover:active:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				input[type="button"]:hover:active:after,$/;"	function	line:1973
+button:hover:active:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				button:hover:active:after,$/;"	function	line:1974
+.button:hover:active:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.button:hover:active:after {$/;"	function	line:1975
+.features	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	.features {$/;"	function	line:1981
+.features section	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.features section {$/;"	function	line:1996
+.features section:nth-child(-n + 2)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(-n + 2) {$/;"	function	line:2003
+.features section:nth-child(2n)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(2n) {$/;"	function	line:2007
+.features section .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section .icon {$/;"	function	line:2011
+.features section:nth-child(1) .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(1) .icon {$/;"	function	line:2030
+.features section:nth-child(2) .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(2) .icon {$/;"	function	line:2037
+.features section:nth-child(3) .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(3) .icon {$/;"	function	line:2044
+.features section:nth-child(4) .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(4) .icon {$/;"	function	line:2051
+.features section:nth-child(5) .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(5) .icon {$/;"	function	line:2058
+.features section:nth-child(6) .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(6) .icon {$/;"	function	line:2065
+.features section:nth-child(7) .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(7) .icon {$/;"	function	line:2072
+.features section:nth-child(8) .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(8) .icon {$/;"	function	line:2079
+.features section:nth-child(9) .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(9) .icon {$/;"	function	line:2086
+.features section:nth-child(10) .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(10) .icon {$/;"	function	line:2093
+.features section:nth-child(11) .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(11) .icon {$/;"	function	line:2100
+.features section:nth-child(12) .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(12) .icon {$/;"	function	line:2107
+.features section:nth-child(13) .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(13) .icon {$/;"	function	line:2114
+.features section:nth-child(14) .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(14) .icon {$/;"	function	line:2121
+.features section:nth-child(15) .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(15) .icon {$/;"	function	line:2128
+.features section:nth-child(16) .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(16) .icon {$/;"	function	line:2135
+.features section:nth-child(17) .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(17) .icon {$/;"	function	line:2142
+.features section:nth-child(18) .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(18) .icon {$/;"	function	line:2149
+.features section:nth-child(19) .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(19) .icon {$/;"	function	line:2156
+.features section:nth-child(20) .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section:nth-child(20) .icon {$/;"	function	line:2163
+.features.inactive section .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.features.inactive section .icon {$/;"	function	line:2170
+@media screen and (max-width: 980px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 980px) {$/;"	function	line:2178
+.features	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features {$/;"	function	line:2180
+.features section	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.features section {$/;"	function	line:2184
+.features section:first-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					.features section:first-child {$/;"	function	line:2190
+@media screen and (max-width: 736px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 736px) {$/;"	function	line:2196
+.features section	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section {$/;"	function	line:2198
+.features section .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.features section .icon {$/;"	function	line:2202
+@media screen and (max-width: 480px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 480px) {$/;"	function	line:2209
+.features section	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.features section {$/;"	function	line:2211
+.features section .icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.features section .icon {$/;"	function	line:2215
+form	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	form {$/;"	function	line:2225
+form > :last-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		form > :last-child {$/;"	function	line:2229
+form > .fields	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		form > .fields {$/;"	function	line:2233
+form > .fields > .field	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			form > .fields > .field {$/;"	function	line:2246
+form > .fields > .field.half	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				form > .fields > .field.half {$/;"	function	line:2259
+form > .fields > .field.third	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				form > .fields > .field.third {$/;"	function	line:2263
+form > .fields > .field.quarter	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				form > .fields > .field.quarter {$/;"	function	line:2267
+@media screen and (max-width: 480px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 480px) {$/;"	function	line:2271
+form > .fields	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			form > .fields {$/;"	function	line:2273
+form > .fields > .field	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				form > .fields > .field {$/;"	function	line:2278
+form > .fields > .field.half	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					form > .fields > .field.half {$/;"	function	line:2283
+form > .fields > .field.third	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					form > .fields > .field.third {$/;"	function	line:2287
+form > .fields > .field.quarter	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					form > .fields > .field.quarter {$/;"	function	line:2291
+label	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	label {$/;"	function	line:2297
+input[type="text"]	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	input[type="text"],$/;"	function	line:2306
+input[type="password"]	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	input[type="password"],$/;"	function	line:2307
+input[type="email"]	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	input[type="email"],$/;"	function	line:2308
+input[type="tel"]	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	input[type="tel"],$/;"	function	line:2309
+select	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	select,$/;"	function	line:2310
+textarea	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	textarea {$/;"	function	line:2311
+input[type="text"]:invalid	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="text"]:invalid,$/;"	function	line:2328
+input[type="password"]:invalid	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="password"]:invalid,$/;"	function	line:2329
+input[type="email"]:invalid	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="email"]:invalid,$/;"	function	line:2330
+input[type="tel"]:invalid	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="tel"]:invalid,$/;"	function	line:2331
+select:invalid	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		select:invalid,$/;"	function	line:2332
+textarea:invalid	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		textarea:invalid {$/;"	function	line:2333
+input[type="text"]:focus	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="text"]:focus,$/;"	function	line:2337
+input[type="password"]:focus	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="password"]:focus,$/;"	function	line:2338
+input[type="email"]:focus	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="email"]:focus,$/;"	function	line:2339
+input[type="tel"]:focus	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="tel"]:focus,$/;"	function	line:2340
+select:focus	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		select:focus,$/;"	function	line:2341
+textarea:focus	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		textarea:focus {$/;"	function	line:2342
+select	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	select {$/;"	function	line:2347
+select option	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		select option {$/;"	function	line:2357
+select:focus::-ms-value	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		select:focus::-ms-value {$/;"	function	line:2362
+select::-ms-expand	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		select::-ms-expand {$/;"	function	line:2366
+input[type="text"]	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	input[type="text"],$/;"	function	line:2370
+input[type="password"]	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	input[type="password"],$/;"	function	line:2371
+input[type="email"]	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	input[type="email"],$/;"	function	line:2372
+select	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	select {$/;"	function	line:2373
+textarea	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	textarea {$/;"	function	line:2377
+body.is-ie textarea	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		body.is-ie textarea {$/;"	function	line:2381
+input[type="checkbox"]	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	input[type="checkbox"],$/;"	function	line:2385
+input[type="radio"]	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	input[type="radio"] {$/;"	function	line:2386
+input[type="checkbox"] + label	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="checkbox"] + label,$/;"	function	line:2399
+input[type="radio"] + label	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="radio"] + label {$/;"	function	line:2400
+input[type="checkbox"] + label:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			input[type="checkbox"] + label:before,$/;"	function	line:2412
+input[type="radio"] + label:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			input[type="radio"] + label:before {$/;"	function	line:2413
+input[type="checkbox"] + label:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			input[type="checkbox"] + label:before,$/;"	function	line:2426
+input[type="radio"] + label:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			input[type="radio"] + label:before {$/;"	function	line:2427
+input[type="checkbox"]:checked + label:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="checkbox"]:checked + label:before,$/;"	function	line:2443
+input[type="radio"]:checked + label:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="radio"]:checked + label:before {$/;"	function	line:2444
+input[type="checkbox"]:focus + label:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="checkbox"]:focus + label:before,$/;"	function	line:2451
+input[type="radio"]:focus + label:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		input[type="radio"]:focus + label:before {$/;"	function	line:2452
+input[type="checkbox"] + label:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	input[type="checkbox"] + label:before {$/;"	function	line:2457
+input[type="radio"] + label:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	input[type="radio"] + label:before {$/;"	function	line:2461
+::-webkit-input-placeholder	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	::-webkit-input-placeholder {$/;"	function	line:2465
+:-moz-placeholder	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	:-moz-placeholder {$/;"	function	line:2470
+::-moz-placeholder	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	::-moz-placeholder {$/;"	function	line:2475
+:-ms-input-placeholder	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	:-ms-input-placeholder {$/;"	function	line:2480
+.icon	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	.icon {$/;"	function	line:2487
+.icon:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.icon:before {$/;"	function	line:2493
+.icon > .label	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.icon > .label {$/;"	function	line:2506
+.icon:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.icon:before {$/;"	function	line:2510
+.icon.solid:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.icon.solid:before {$/;"	function	line:2514
+.icon.brands:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.icon.brands:before {$/;"	function	line:2518
+.icon.major	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.icon.major {$/;"	function	line:2522
+.icon.major:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.icon.major:before {$/;"	function	line:2534
+.wrapper.style1 .icon.major:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.wrapper.style1 .icon.major:before {$/;"	function	line:2538
+.wrapper.style1-alt .icon.major:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.wrapper.style1-alt .icon.major:before {$/;"	function	line:2542
+.wrapper.style2 .icon.major:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.wrapper.style2 .icon.major:before {$/;"	function	line:2546
+.wrapper.style2-alt .icon.major:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.wrapper.style2-alt .icon.major:before {$/;"	function	line:2550
+.wrapper.style3 .icon.major:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.wrapper.style3 .icon.major:before {$/;"	function	line:2554
+.wrapper.style3-alt .icon.major:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.wrapper.style3-alt .icon.major:before {$/;"	function	line:2558
+.image	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	.image {$/;"	function	line:2564
+.image img	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.image img {$/;"	function	line:2571
+.image.left, .image.right	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.image.left, .image.right {$/;"	function	line:2576
+.image.left img, .image.right img	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.image.left img, .image.right img {$/;"	function	line:2580
+.image.left	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.image.left {$/;"	function	line:2584
+.image.right	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.image.right {$/;"	function	line:2590
+.image.fit	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.image.fit {$/;"	function	line:2596
+.image.fit img	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.image.fit img {$/;"	function	line:2602
+.image.main	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.image.main {$/;"	function	line:2606
+.image.main img	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.image.main img {$/;"	function	line:2612
+ol	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	ol {$/;"	function	line:2618
+ol li	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		ol li {$/;"	function	line:2624
+ul	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	ul {$/;"	function	line:2628
+ul li	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		ul li {$/;"	function	line:2634
+ul.alt	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		ul.alt {$/;"	function	line:2638
+ul.alt li	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			ul.alt li {$/;"	function	line:2643
+ul.alt li:first-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				ul.alt li:first-child {$/;"	function	line:2648
+dl	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	dl {$/;"	function	line:2653
+dl dt	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		dl dt {$/;"	function	line:2657
+dl dd	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		dl dd {$/;"	function	line:2663
+ul.actions	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	ul.actions {$/;"	function	line:2669
+ul.actions li	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		ul.actions li {$/;"	function	line:2680
+ul.actions.special	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		ul.actions.special {$/;"	function	line:2685
+ul.actions.special li:first-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			ul.actions.special li:first-child {$/;"	function	line:2694
+ul.actions.stacked	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		ul.actions.stacked {$/;"	function	line:2698
+ul.actions.stacked li	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			ul.actions.stacked li {$/;"	function	line:2706
+ul.actions.stacked li:first-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				ul.actions.stacked li:first-child {$/;"	function	line:2710
+ul.actions.fit	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		ul.actions.fit {$/;"	function	line:2714
+ul.actions.fit li	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			ul.actions.fit li {$/;"	function	line:2718
+ul.actions.fit li > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				ul.actions.fit li > * {$/;"	function	line:2730
+ul.actions.fit.stacked	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			ul.actions.fit.stacked {$/;"	function	line:2734
+@media screen and (max-width: 480px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 480px) {$/;"	function	line:2738
+ul.actions:not(.fixed)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			ul.actions:not(.fixed) {$/;"	function	line:2740
+ul.actions:not(.fixed) li	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				ul.actions:not(.fixed) li {$/;"	function	line:2749
+ul.actions:not(.fixed) li > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					ul.actions:not(.fixed) li > * {$/;"	function	line:2763
+ul.actions:not(.fixed) li:first-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					ul.actions:not(.fixed) li:first-child {$/;"	function	line:2767
+ul.actions:not(.fixed) li input[type="submit"]	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					ul.actions:not(.fixed) li input[type="submit"],$/;"	function	line:2771
+ul.actions:not(.fixed) li input[type="reset"]	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					ul.actions:not(.fixed) li input[type="reset"],$/;"	function	line:2772
+ul.actions:not(.fixed) li input[type="button"]	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					ul.actions:not(.fixed) li input[type="button"],$/;"	function	line:2773
+ul.actions:not(.fixed) li button	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					ul.actions:not(.fixed) li button,$/;"	function	line:2774
+ul.actions:not(.fixed) li .button	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					ul.actions:not(.fixed) li .button {$/;"	function	line:2775
+ul.actions:not(.fixed) li input[type="submit"].icon:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						ul.actions:not(.fixed) li input[type="submit"].icon:before,$/;"	function	line:2779
+ul.actions:not(.fixed) li input[type="reset"].icon:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						ul.actions:not(.fixed) li input[type="reset"].icon:before,$/;"	function	line:2780
+ul.actions:not(.fixed) li input[type="button"].icon:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						ul.actions:not(.fixed) li input[type="button"].icon:before,$/;"	function	line:2781
+ul.actions:not(.fixed) li button.icon:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						ul.actions:not(.fixed) li button.icon:before,$/;"	function	line:2782
+ul.actions:not(.fixed) li .button.icon:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						ul.actions:not(.fixed) li .button.icon:before {$/;"	function	line:2783
+ul.contact	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	ul.contact {$/;"	function	line:2791
+ul.contact > li	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		ul.contact > li {$/;"	function	line:2796
+ul.contact > li:first-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			ul.contact > li:first-child {$/;"	function	line:2801
+ul.icons	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	ul.icons {$/;"	function	line:2807
+ul.icons li	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		ul.icons li {$/;"	function	line:2813
+ul.icons li:last-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			ul.icons li:last-child {$/;"	function	line:2818
+ul.icons li > a, ul.icons li > span	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			ul.icons li > a, ul.icons li > span {$/;"	function	line:2822
+ul.icons li > a .label, ul.icons li > span .label	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				ul.icons li > a .label, ul.icons li > span .label {$/;"	function	line:2826
+ul.menu	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	ul.menu {$/;"	function	line:2832
+ul.menu > li	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		ul.menu > li {$/;"	function	line:2837
+ul.menu > li:first-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			ul.menu > li:first-child {$/;"	function	line:2845
+@media screen and (max-width: 480px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 480px) {$/;"	function	line:2851
+ul.menu > li	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			ul.menu > li {$/;"	function	line:2853
+section.special, article.special	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	section.special, article.special {$/;"	function	line:2865
+header p	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	header p {$/;"	function	line:2869
+header h2 + p	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	header h2 + p {$/;"	function	line:2875
+header h3 + p	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	header h3 + p {$/;"	function	line:2881
+header h4 + p	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	header h4 + p,$/;"	function	line:2887
+header h5 + p	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	header h5 + p,$/;"	function	line:2888
+header h6 + p	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	header h6 + p {$/;"	function	line:2889
+.split	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	.split {$/;"	function	line:2897
+.split > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.split > * {$/;"	function	line:2904
+.split > :nth-child(2n - 1)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.split > :nth-child(2n - 1) {$/;"	function	line:2908
+.split > :nth-child(2n)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.split > :nth-child(2n) {$/;"	function	line:2913
+.split.style1 > :nth-child(2n - 1)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.split.style1 > :nth-child(2n - 1) {$/;"	function	line:2917
+.split.style1 > :nth-child(2n)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.split.style1 > :nth-child(2n) {$/;"	function	line:2921
+@media screen and (max-width: 1680px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 1680px) {$/;"	function	line:2925
+.split > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.split > * {$/;"	function	line:2927
+.split > :nth-child(2n - 1)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.split > :nth-child(2n - 1) {$/;"	function	line:2931
+.split > :nth-child(2n)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.split > :nth-child(2n) {$/;"	function	line:2935
+.split.style1 > :nth-child(2n - 1)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.split.style1 > :nth-child(2n - 1) {$/;"	function	line:2939
+.split.style1 > :nth-child(2n)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.split.style1 > :nth-child(2n) {$/;"	function	line:2943
+@media screen and (max-width: 980px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 980px) {$/;"	function	line:2949
+.split	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.split {$/;"	function	line:2951
+.split > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.split > * {$/;"	function	line:2955
+.split > :nth-child(2n - 1)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.split > :nth-child(2n - 1) {$/;"	function	line:2962
+.split > :nth-child(2n)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.split > :nth-child(2n) {$/;"	function	line:2967
+.split > :first-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.split > :first-child {$/;"	function	line:2971
+@media screen and (max-width: 736px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 736px) {$/;"	function	line:2979
+.split > *	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.split > * {$/;"	function	line:2981
+.spotlights > section	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	.spotlights > section {$/;"	function	line:2990
+body.is-ie .spotlights > section	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		body.is-ie .spotlights > section {$/;"	function	line:3002
+.spotlights > section > .image	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.spotlights > section > .image {$/;"	function	line:3006
+.spotlights > section > .image img	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.spotlights > section > .image img {$/;"	function	line:3015
+.spotlights > section > .image:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.spotlights > section > .image:before {$/;"	function	line:3020
+.spotlights > section > .content	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.spotlights > section > .content {$/;"	function	line:3036
+.spotlights > section > .content > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.spotlights > section > .content > .inner {$/;"	function	line:3054
+.spotlights > section:nth-child(2)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.spotlights > section:nth-child(2) {$/;"	function	line:3066
+.spotlights > section:nth-child(3)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.spotlights > section:nth-child(3) {$/;"	function	line:3070
+.spotlights > section:nth-child(4)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.spotlights > section:nth-child(4) {$/;"	function	line:3073
+.spotlights > section:nth-child(5)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.spotlights > section:nth-child(5) {$/;"	function	line:3076
+.spotlights > section:nth-child(6)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.spotlights > section:nth-child(6) {$/;"	function	line:3079
+.spotlights > section:nth-child(7)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.spotlights > section:nth-child(7) {$/;"	function	line:3082
+.spotlights > section:nth-child(8)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.spotlights > section:nth-child(8) {$/;"	function	line:3085
+.spotlights > section.inactive > .image:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.spotlights > section.inactive > .image:before,$/;"	function	line:3091
+body.is-preload .spotlights > section > .image:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		body.is-preload .spotlights > section > .image:before {$/;"	function	line:3092
+.spotlights > section.inactive > .content > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.spotlights > section.inactive > .content > .inner,$/;"	function	line:3096
+body.is-preload .spotlights > section > .content > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		body.is-preload .spotlights > section > .content > .inner {$/;"	function	line:3097
+@media screen and (max-width: 1680px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 1680px) {$/;"	function	line:3105
+.spotlights > section > .content	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.spotlights > section > .content {$/;"	function	line:3107
+@media screen and (max-width: 980px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 980px) {$/;"	function	line:3113
+.spotlights > section	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.spotlights > section {$/;"	function	line:3115
+.spotlights > section > .image	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.spotlights > section > .image {$/;"	function	line:3119
+.spotlights > section > .content	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.spotlights > section > .content {$/;"	function	line:3124
+.spotlights > section.inactive > .content > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.spotlights > section.inactive > .content > .inner,$/;"	function	line:3128
+body.is-preload .spotlights > section > .content > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				body.is-preload .spotlights > section > .content > .inner {$/;"	function	line:3129
+@media screen and (max-width: 736px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 736px) {$/;"	function	line:3138
+.spotlights > section > .image	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.spotlights > section > .image {$/;"	function	line:3140
+.spotlights > section > .content	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			.spotlights > section > .content {$/;"	function	line:3145
+.table-wrapper	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	.table-wrapper {$/;"	function	line:3153
+table	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	table {$/;"	function	line:3158
+table tbody tr	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		table tbody tr {$/;"	function	line:3163
+table tbody tr:nth-child(2n + 1)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			table tbody tr:nth-child(2n + 1) {$/;"	function	line:3169
+table td	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		table td {$/;"	function	line:3173
+table th	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		table th {$/;"	function	line:3177
+table thead	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		table thead {$/;"	function	line:3185
+table tfoot	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		table tfoot {$/;"	function	line:3189
+table.alt	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		table.alt {$/;"	function	line:3193
+table.alt tbody tr td	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			table.alt tbody tr td {$/;"	function	line:3197
+table.alt tbody tr td:first-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				table.alt tbody tr td:first-child {$/;"	function	line:3203
+table.alt tbody tr:first-child td	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			table.alt tbody tr:first-child td {$/;"	function	line:3207
+table.alt thead	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			table.alt thead {$/;"	function	line:3211
+table.alt tfoot	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			table.alt tfoot {$/;"	function	line:3215
+.wrapper	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	.wrapper {$/;"	function	line:3221
+.wrapper > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.wrapper > .inner {$/;"	function	line:3225
+@media screen and (max-width: 1680px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			@media screen and (max-width: 1680px) {$/;"	function	line:3231
+.wrapper > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.wrapper > .inner {$/;"	function	line:3233
+@media screen and (max-width: 1280px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			@media screen and (max-width: 1280px) {$/;"	function	line:3239
+.wrapper > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.wrapper > .inner {$/;"	function	line:3241
+@media screen and (max-width: 736px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			@media screen and (max-width: 736px) {$/;"	function	line:3247
+.wrapper > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.wrapper > .inner {$/;"	function	line:3249
+.wrapper.alt	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.wrapper.alt {$/;"	function	line:3255
+.wrapper.style1	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.wrapper.style1 {$/;"	function	line:3259
+.wrapper.style1-alt	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.wrapper.style1-alt {$/;"	function	line:3263
+.wrapper.style2	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.wrapper.style2 {$/;"	function	line:3267
+.wrapper.style2-alt	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.wrapper.style2-alt {$/;"	function	line:3271
+.wrapper.style3	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.wrapper.style3 {$/;"	function	line:3275
+.wrapper.style3-alt	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.wrapper.style3-alt {$/;"	function	line:3279
+.wrapper.fullscreen	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.wrapper.fullscreen {$/;"	function	line:3283
+body.is-ie .wrapper.fullscreen	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			body.is-ie .wrapper.fullscreen {$/;"	function	line:3299
+@media screen and (max-width: 1280px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			@media screen and (max-width: 1280px) {$/;"	function	line:3303
+.wrapper.fullscreen	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.wrapper.fullscreen {$/;"	function	line:3305
+body.is-ie .wrapper.fullscreen	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					body.is-ie .wrapper.fullscreen {$/;"	function	line:3309
+@media screen and (max-width: 736px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			@media screen and (max-width: 736px) {$/;"	function	line:3315
+.wrapper.fullscreen	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				.wrapper.fullscreen {$/;"	function	line:3317
+body.is-ie .wrapper.fullscreen	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					body.is-ie .wrapper.fullscreen {$/;"	function	line:3322
+.wrapper.fade-up > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.wrapper.fade-up > .inner {$/;"	function	line:3328
+.wrapper.fade-up.inactive > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.wrapper.fade-up.inactive > .inner,$/;"	function	line:3340
+body.is-preload .wrapper.fade-up > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		body.is-preload .wrapper.fade-up > .inner {$/;"	function	line:3341
+.wrapper.fade-down > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.wrapper.fade-down > .inner {$/;"	function	line:3349
+.wrapper.fade-down.inactive > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.wrapper.fade-down.inactive > .inner,$/;"	function	line:3361
+body.is-preload .wrapper.fade-down > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		body.is-preload .wrapper.fade-down > .inner {$/;"	function	line:3362
+.wrapper.fade > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.wrapper.fade > .inner {$/;"	function	line:3370
+.wrapper.fade.inactive > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		.wrapper.fade.inactive > .inner,$/;"	function	line:3378
+body.is-preload .wrapper.fade > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		body.is-preload .wrapper.fade > .inner {$/;"	function	line:3379
+#header	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	#header {$/;"	function	line:3385
+#header > .title	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		#header > .title {$/;"	function	line:3395
+#header > nav	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		#header > nav {$/;"	function	line:3403
+#header > nav > ul	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			#header > nav > ul {$/;"	function	line:3411
+#header > nav > ul > li	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#header > nav > ul > li {$/;"	function	line:3416
+#header > nav > ul > li:first-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					#header > nav > ul > li:first-child {$/;"	function	line:3423
+#header > nav > ul > li a	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					#header > nav > ul > li a {$/;"	function	line:3427
+#header > nav > ul > li a:hover	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						#header > nav > ul > li a:hover {$/;"	function	line:3437
+#header > nav > ul > li a.active	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						#header > nav > ul > li a.active {$/;"	function	line:3441
+@media screen and (max-width: 736px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 736px) {$/;"	function	line:3445
+#header	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			#header {$/;"	function	line:3447
+@media screen and (max-width: 480px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 480px) {$/;"	function	line:3453
+#header	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			#header {$/;"	function	line:3455
+#header .title	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#header .title {$/;"	function	line:3461
+#header > nav	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#header > nav {$/;"	function	line:3466
+#header > nav > ul > li	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					#header > nav > ul > li {$/;"	function	line:3471
+#header > nav > ul > li a	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						#header > nav > ul > li a {$/;"	function	line:3475
+#sidebar + #wrapper	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	#sidebar + #wrapper {$/;"	function	line:3484
+@media screen and (max-width: 1280px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 1280px) {$/;"	function	line:3488
+#sidebar + #wrapper	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			#sidebar + #wrapper {$/;"	function	line:3490
+@media screen and (max-width: 736px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 736px) {$/;"	function	line:3497
+#sidebar + #wrapper	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			#sidebar + #wrapper {$/;"	function	line:3499
+#header + #wrapper > .wrapper > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	#header + #wrapper > .wrapper > .inner {$/;"	function	line:3505
+#sidebar + #wrapper + #footer	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	#sidebar + #wrapper + #footer {$/;"	function	line:3511
+@media screen and (max-width: 1280px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 1280px) {$/;"	function	line:3515
+#sidebar + #wrapper + #footer	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			#sidebar + #wrapper + #footer {$/;"	function	line:3517
+#footer > .inner a	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	#footer > .inner a {$/;"	function	line:3523
+#footer > .inner a:hover	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		#footer > .inner a:hover {$/;"	function	line:3527
+#footer > .inner .menu	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	#footer > .inner .menu {$/;"	function	line:3531
+#header + #wrapper + #footer > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	#header + #wrapper + #footer > .inner {$/;"	function	line:3536
+#sidebar	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	#sidebar {$/;"	function	line:3542
+#sidebar > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		#sidebar > .inner {$/;"	function	line:3557
+body.is-ie #sidebar > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			body.is-ie #sidebar > .inner {$/;"	function	line:3583
+#sidebar nav > ul	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		#sidebar nav > ul {$/;"	function	line:3587
+#sidebar nav > ul > li	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			#sidebar nav > ul > li {$/;"	function	line:3592
+#sidebar nav > ul > li:first-child	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:first-child {$/;"	function	line:3607
+#sidebar nav > ul > li:nth-child(1)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:nth-child(1) {$/;"	function	line:3611
+#sidebar nav > ul > li:nth-child(2)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:nth-child(2) {$/;"	function	line:3618
+#sidebar nav > ul > li:nth-child(3)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:nth-child(3) {$/;"	function	line:3625
+#sidebar nav > ul > li:nth-child(4)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:nth-child(4) {$/;"	function	line:3632
+#sidebar nav > ul > li:nth-child(5)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:nth-child(5) {$/;"	function	line:3639
+#sidebar nav > ul > li:nth-child(6)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:nth-child(6) {$/;"	function	line:3646
+#sidebar nav > ul > li:nth-child(7)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:nth-child(7) {$/;"	function	line:3653
+#sidebar nav > ul > li:nth-child(8)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:nth-child(8) {$/;"	function	line:3660
+#sidebar nav > ul > li:nth-child(9)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:nth-child(9) {$/;"	function	line:3667
+#sidebar nav > ul > li:nth-child(10)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:nth-child(10) {$/;"	function	line:3674
+#sidebar nav > ul > li:nth-child(11)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:nth-child(11) {$/;"	function	line:3681
+#sidebar nav > ul > li:nth-child(12)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:nth-child(12) {$/;"	function	line:3688
+#sidebar nav > ul > li:nth-child(13)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:nth-child(13) {$/;"	function	line:3695
+#sidebar nav > ul > li:nth-child(14)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:nth-child(14) {$/;"	function	line:3702
+#sidebar nav > ul > li:nth-child(15)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:nth-child(15) {$/;"	function	line:3709
+#sidebar nav > ul > li:nth-child(16)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:nth-child(16) {$/;"	function	line:3716
+#sidebar nav > ul > li:nth-child(17)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:nth-child(17) {$/;"	function	line:3723
+#sidebar nav > ul > li:nth-child(18)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:nth-child(18) {$/;"	function	line:3730
+#sidebar nav > ul > li:nth-child(19)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:nth-child(19) {$/;"	function	line:3737
+#sidebar nav > ul > li:nth-child(20)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav > ul > li:nth-child(20) {$/;"	function	line:3744
+#sidebar nav a	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		#sidebar nav a {$/;"	function	line:3751
+#sidebar nav a:before, #sidebar nav a:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			#sidebar nav a:before, #sidebar nav a:after {$/;"	function	line:3770
+#sidebar nav a:before	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			#sidebar nav a:before {$/;"	function	line:3780
+#sidebar nav a:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			#sidebar nav a:after {$/;"	function	line:3784
+#sidebar nav a:hover	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			#sidebar nav a:hover {$/;"	function	line:3796
+#sidebar nav a.active	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			#sidebar nav a.active {$/;"	function	line:3800
+#sidebar nav a.active:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav a.active:after {$/;"	function	line:3804
+body.is-preload #sidebar > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		body.is-preload #sidebar > .inner {$/;"	function	line:3808
+body.is-preload #sidebar nav ul li	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		body.is-preload #sidebar nav ul li {$/;"	function	line:3812
+@media screen and (max-width: 1280px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 1280px) {$/;"	function	line:3820
+#sidebar	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			#sidebar {$/;"	function	line:3822
+#sidebar > .inner	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar > .inner {$/;"	function	line:3833
+#sidebar nav	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#sidebar nav {$/;"	function	line:3846
+#sidebar nav ul	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					#sidebar nav ul {$/;"	function	line:3851
+#sidebar nav ul li	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						#sidebar nav ul li {$/;"	function	line:3861
+#sidebar nav a	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^					#sidebar nav a {$/;"	function	line:3869
+#sidebar nav a:after	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^						#sidebar nav a:after {$/;"	function	line:3875
+@media screen and (max-width: 736px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 736px) {$/;"	function	line:3882
+#sidebar	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			#sidebar {$/;"	function	line:3884
+#intro	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^	#intro {$/;"	function	line:3892
+#intro p	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		#intro p {$/;"	function	line:3900
+@media screen and (max-width: 980px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			@media screen and (max-width: 980px) {$/;"	function	line:3904
+#intro p br	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#intro p br {$/;"	function	line:3906
+@media screen and (max-width: 736px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			@media screen and (max-width: 736px) {$/;"	function	line:3912
+#intro p	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^				#intro p {$/;"	function	line:3914
+@media screen and (max-width: 1280px)	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^		@media screen and (max-width: 1280px) {$/;"	function	line:3920
+#intro	/Users/aakash/Documents/aakashparikh/assets/css/main.css	/^			#intro {$/;"	function	line:3922
+html	/Users/aakash/Documents/aakashparikh/index.html	/^<html>$/;"	function	line:7
+head	/Users/aakash/Documents/aakashparikh/index.html	/^	<head>$/;"	function	line:8
+title	/Users/aakash/Documents/aakashparikh/index.html	/^		<title>Aakash Parikh<\/title>$/;"	function	line:9
+meta	/Users/aakash/Documents/aakashparikh/index.html	/^		<meta charset="utf-8" \/>$/;"	function	line:10
+meta	/Users/aakash/Documents/aakashparikh/index.html	/^		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" \/>$/;"	function	line:11
+link	/Users/aakash/Documents/aakashparikh/index.html	/^		<link rel="stylesheet" href="assets\/css\/main.css" \/>$/;"	function	line:12
+noscript	/Users/aakash/Documents/aakashparikh/index.html	/^		<noscript><link rel="stylesheet" href="assets\/css\/noscript.css" \/><\/noscript>$/;"	function	line:13
+body	/Users/aakash/Documents/aakashparikh/index.html	/^	<body class="is-preload">$/;"	function	line:15
+section	/Users/aakash/Documents/aakashparikh/index.html	/^			<section id="sidebar">$/;"	function	line:18
+div	/Users/aakash/Documents/aakashparikh/index.html	/^				<div class="inner">$/;"	function	line:19
+nav	/Users/aakash/Documents/aakashparikh/index.html	/^					<nav>$/;"	function	line:20
+ul	/Users/aakash/Documents/aakashparikh/index.html	/^						<ul>$/;"	function	line:21
+li	/Users/aakash/Documents/aakashparikh/index.html	/^							<li><a href="#intro">About Me<\/a><\/li>$/;"	function	line:22
+li	/Users/aakash/Documents/aakashparikh/index.html	/^							<li><a href="#one">Experience<\/a><\/li>$/;"	function	line:23
+li	/Users/aakash/Documents/aakashparikh/index.html	/^							<li><a href="#two">Projects<\/a><\/li>$/;"	function	line:24
+li	/Users/aakash/Documents/aakashparikh/index.html	/^							<li><a href="#three">Get in touch<\/a><\/li>$/;"	function	line:25
+div	/Users/aakash/Documents/aakashparikh/index.html	/^			<div id="wrapper">$/;"	function	line:32
+section	/Users/aakash/Documents/aakashparikh/index.html	/^					<section id="intro" class="wrapper style1 fullscreen fade-up">$/;"	function	line:35
+div	/Users/aakash/Documents/aakashparikh/index.html	/^						<div class="inner">$/;"	function	line:36
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div style="width:50%; float:left">$/;"	function	line:37
+h	/Users/aakash/Documents/aakashparikh/index.html	/^								<h1>Aakash Parikh<\/h1>$/;"	function	line:38
+p	/Users/aakash/Documents/aakashparikh/index.html	/^								<p>Hey! I'm Aakash! I'm a recent grad from UC Berkeley, completing my MS and BA in Computer Science. At Berkeley, I focused on Machine Learning, Graphics and AR\/VR and Robotics research. I've also interned at Facebook and PayPal as a software engineer.<\/p>$/;"	function	line:39
+ul	/Users/aakash/Documents/aakashparikh/index.html	/^								<ul class="actions">$/;"	function	line:40
+li	/Users/aakash/Documents/aakashparikh/index.html	/^									<li><a href="#one" class="button scrolly">Learn more<\/a><\/li>$/;"	function	line:41
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div style="width:30%; float:right">$/;"	function	line:44
+a	/Users/aakash/Documents/aakashparikh/index.html	/^								<a href="#" class="image"><img src="images\/a4.jpg" width = 100% \/><\/a>$/;"	function	line:45
+section	/Users/aakash/Documents/aakashparikh/index.html	/^					<section id="one" class="wrapper style2 spotlights">$/;"	function	line:52
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:53
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/burrowing_robot.bmp" alt="" data-position="center center" \/><\/a>$/;"	function	line:54
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:55
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:56
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h2>Student Researcher at UC Berkeley<\/h2>$/;"	function	line:57
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p>I was involved in research at UC Berkeley at the intersections of robotics, graphics and machine learning.<\/br>$/;"	function	line:58
+ul	/Users/aakash/Documents/aakashparikh/index.html	/^										<ul>$/;"	function	line:60
+li	/Users/aakash/Documents/aakashparikh/index.html	/^											<li>$/;"	function	line:61
+a	/Users/aakash/Documents/aakashparikh/index.html	/^											<a href="https:\/\/www2.eecs.berkeley.edu\/Pubs\/TechRpts\/2020\/EECS-2020-43.html" class="button">Thesis<\/a>$/;"	function	line:64
+li	/Users/aakash/Documents/aakashparikh/index.html	/^											<li>$/;"	function	line:65
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:72
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/fb_logo.png" alt="" data-position="top center" \/><\/a>$/;"	function	line:73
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:74
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:75
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h2>Software Engineering Intern at Facebook<\/h2>$/;"	function	line:76
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p>I have interned at Facebook during the summers of 2019 and 2018<\/p>$/;"	function	line:77
+ul	/Users/aakash/Documents/aakashparikh/index.html	/^									<ul>$/;"	function	line:78
+li	/Users/aakash/Documents/aakashparikh/index.html	/^										<li>$/;"	function	line:79
+li	/Users/aakash/Documents/aakashparikh/index.html	/^										<li>$/;"	function	line:82
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:90
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/PayPal.png" alt="" data-position="25% 25%" \/><\/a>$/;"	function	line:91
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:92
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:93
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h2>Software Engineering Intern at PayPal<\/h2>$/;"	function	line:94
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p>I interned in the Financial Instruments team during Summer 2017 at PayPal in San Jose. <br>$/;"	function	line:95
+section	/Users/aakash/Documents/aakashparikh/index.html	/^					<section id="two" class="wrapper style3-alt spotlights">$/;"	function	line:103
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:104
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/low_prec.png" alt="" data-position="center center" \/><\/a>$/;"	function	line:105
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:106
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:107
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>Improving Low Precision Network Accuracy with Teacher Assistant Model Distillation<\/h2>$/;"	function	line:108
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p> Built pipeline to use intermediate teacher assistant networks to improve image classification accuracy in smaller models when distilling neural networks to smaller networks with lower precision forward activations<\/p>$/;"	function	line:109
+a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/docs.google.com\/document\/u\/1\/d\/e\/2PACX-1vTUb1h95VKj2pFijNMIBWviyx27M-3Nd0eOwShiKSClriybFUS1CpLHafistaHvt1TKHZEZd-sFM9xq\/pub" class="button">Write Up<\/a>$/;"	function	line:110
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:114
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/gfootball.png" alt="" data-position="center center" \/><\/a>$/;"	function	line:115
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:116
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:117
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>Cooperative Reinforcement Learning for Multiple Football Agents<\/h2>$/;"	function	line:118
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p> We developed and assessed scenarios for simultaneous learning, individual training and single agent controlling multiple players in order to better cooperatively play a simulation soccer game in Google Research’s Football environment<\/p>$/;"	function	line:119
+a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/docs.google.com\/document\/u\/1\/d\/e\/2PACX-1vQ6OVdp4gmj97aT-IHXQH6ArPRUy5pz-UNMk_OTnNpApqhMXepcvsuzARodhKYp2clTJXnx87ssih-9\/pub" class="button">Write Up<\/a>$/;"	function	line:120
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:124
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/deepracer.png" alt="" data-position="top center" \/><\/a>$/;"	function	line:125
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:126
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:127
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>AWS DeepRacer Control<\/h3>$/;"	function	line:128
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p>Assessed viability and performance of traditional controllers using only camera and IMU information compared to a reinforcement learning approach for AWS DeepRacer on a marked racetrack and reported results to Amazon research team and Berkeley MPC lab<\/p>$/;"	function	line:129
+a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/github.com\/junzengx14\/AWS-DeepRacer\/wiki" class="button">GitHub<\/a>$/;"	function	line:130
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:134
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/galaxy.png" alt="" data-position="25% 25%" \/><\/a>$/;"	function	line:135
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:136
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:137
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>Cosmological N-Body Simulator<\/h3>$/;"	function	line:138
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p>Built a real time in-browser large N-body simulation of star formation, galaxy coalescence and collisions with stunning visuals including light reflectance, scattering and cloud models<\/p>$/;"	function	line:139
+a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/aparikh98.github.io\/CosmologicalSimulation\/" class="button">Write Up<\/a>$/;"	function	line:140
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:144
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/fruitbot.png" alt="" data-position="top center" \/><\/a>$/;"	function	line:145
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:146
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:147
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>Fruitbot<\/h3>$/;"	function	line:148
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p>Determined a robust way for a Baxter industrial robot to locate, grasp and sort objects with a custom image pre-processing flow to account for varying orientations, shapes and sizes and a CNN to identify and locate objects<\/p>$/;"	function	line:149
+a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/fruitbot.weebly.com" class="button">Web Site<\/a>$/;"	function	line:150
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:154
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/messengermap.png" alt="" data-position="25% 25%" \/><\/a>$/;"	function	line:155
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:156
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:157
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>Messenger Friends Map<\/h3>$/;"	function	line:158
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p> Identify and visualize friend groups by scraping and modeling chat data to determine relative strength of friendships and connection networks using PageRank and MCMC algorithms<\/p>$/;"	function	line:159
+a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/drive.google.com\/file\/d\/1ARWxb7s43h_SEIIQvQFx-AxPxSLOj6Mb\/view?usp=sharing" class="button">Write Up<\/a>$/;"	function	line:160
+section	/Users/aakash/Documents/aakashparikh/index.html	/^						<section>$/;"	function	line:164
+a	/Users/aakash/Documents/aakashparikh/index.html	/^							<a href="#" class="image"><img src="images\/drones.png" alt="" data-position="center center" \/><\/a>$/;"	function	line:165
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="content">$/;"	function	line:166
+div	/Users/aakash/Documents/aakashparikh/index.html	/^								<div class="inner">$/;"	function	line:167
+h	/Users/aakash/Documents/aakashparikh/index.html	/^									<h3>Remote Charging for Drones<\/h3>$/;"	function	line:168
+p	/Users/aakash/Documents/aakashparikh/index.html	/^									<p> Built a system to support a network of remote charging pads that transacts payments for on the fly recharging for autonomous drones<\/p>$/;"	function	line:169
+a	/Users/aakash/Documents/aakashparikh/index.html	/^									<a href="https:\/\/github.com\/DroneCharging\/DroneChargingPOC" class="button">GitHub<\/a>$/;"	function	line:170
+section	/Users/aakash/Documents/aakashparikh/index.html	/^					<section id="three" class="wrapper style1 fade-up">$/;"	function	line:178
+div	/Users/aakash/Documents/aakashparikh/index.html	/^						<div class="inner">$/;"	function	line:179
+h	/Users/aakash/Documents/aakashparikh/index.html	/^							<h2>Get in touch<\/h2>$/;"	function	line:180
+div	/Users/aakash/Documents/aakashparikh/index.html	/^							<div class="contact">$/;"	function	line:181
+ul	/Users/aakash/Documents/aakashparikh/index.html	/^									<ul style="list-style-type:none;">$/;"	function	line:182
+li	/Users/aakash/Documents/aakashparikh/index.html	/^										<li>$/;"	function	line:183
+h	/Users/aakash/Documents/aakashparikh/index.html	/^											<h3>Location<\/h3>$/;"	function	line:184
+span	/Users/aakash/Documents/aakashparikh/index.html	/^											<span>San Francisco Bay Area<\/span>$/;"	function	line:185
+li	/Users/aakash/Documents/aakashparikh/index.html	/^										<li>$/;"	function	line:187
+h	/Users/aakash/Documents/aakashparikh/index.html	/^											<h3>Email<\/h3>$/;"	function	line:188
+span	/Users/aakash/Documents/aakashparikh/index.html	/^											<span>aparikh64_at_gmail_dot_com<\/span>$/;"	function	line:189
+li	/Users/aakash/Documents/aakashparikh/index.html	/^										<li>$/;"	function	line:191
+h	/Users/aakash/Documents/aakashparikh/index.html	/^											<h3>Social<\/h3>$/;"	function	line:192
+ul	/Users/aakash/Documents/aakashparikh/index.html	/^											<ul class="icons">$/;"	function	line:193
+li	/Users/aakash/Documents/aakashparikh/index.html	/^												<li><a href="https:\/\/www.linkedin.com\/in\/aakashparikh\/" class="icon brands fa-linkedin-in"><span class="label">LinkedIn<\/span><\/a><\/li>$/;"	function	line:194
+li	/Users/aakash/Documents/aakashparikh/index.html	/^												<li><a href="https:\/\/github.com\/aparikh98" class="icon brands fa-github"><span class="label">GitHub<\/span><\/a><\/li>$/;"	function	line:195
+li	/Users/aakash/Documents/aakashparikh/index.html	/^												<li><a href="https:\/\/www.facebook.com\/aparikh98" class="icon brands fa-facebook-f"><span class="label">Facebook<\/span><\/a><\/li>$/;"	function	line:196
+li	/Users/aakash/Documents/aakashparikh/index.html	/^												<li><a href="https:\/\/www.instagram.com\/aparikh98\/" class="icon brands fa-instagram"><span class="label">Instagram<\/span><\/a><\/li>$/;"	function	line:197
+footer	/Users/aakash/Documents/aakashparikh/index.html	/^			<footer id="footer" class="wrapper style1-alt">$/;"	function	line:207
+div	/Users/aakash/Documents/aakashparikh/index.html	/^				<div class="inner">$/;"	function	line:208
+ul	/Users/aakash/Documents/aakashparikh/index.html	/^					<ul class="menu">$/;"	function	line:209
+li	/Users/aakash/Documents/aakashparikh/index.html	/^						<li>&copy; Aakash Parikh 2020. All rights reserved.<\/li><li>Design: <a href="http:\/\/html5up.net">HTML5 UP<\/a><\/li>$/;"	function	line:210
+script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/jquery.min.js"><\/script>$/;"	function	line:216
+script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/jquery.scrollex.min.js"><\/script>$/;"	function	line:217
+script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/jquery.scrolly.min.js"><\/script>$/;"	function	line:218
+script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/browser.min.js"><\/script>$/;"	function	line:219
+script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/breakpoints.min.js"><\/script>$/;"	function	line:220
+script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/util.js"><\/script>$/;"	function	line:221
+script	/Users/aakash/Documents/aakashparikh/index.html	/^			<script src="assets\/js\/main.js"><\/script>$/;"	function	line:222
